@@ -1,0 +1,27 @@
+---
+- hosts: all
+  tasks:
+    - name: "ping"
+      ping:
+
+    - name: "run hugo"
+      shell: "hugo"
+      args:
+        chdir: ../
+      delegate_to: localhost
+
+    - name: "sync code"
+      synchronize:
+        src: ../public/
+        dest: /var/www/tif-static/
+        #delete: "yes"
+
+    - name: "sync nginx config"
+      synchronize:
+        src: ./tif-static.conf
+        dest: /etc/nginx/conf.d/tif-static.conf
+
+    - name: "Reload nginx"
+      service:
+        name: nginx
+        state: reloaded
