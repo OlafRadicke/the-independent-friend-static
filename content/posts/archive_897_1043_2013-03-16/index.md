@@ -5,8 +5,14 @@ log: ""
 tags: [archiv]
 ---
 <hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatirung kann beschädigt sein.<hr>
-<p><a href="http://www.the-independent-friend.de/files/2013-03-16-aufgeschlagen.jpg"  >
-<img src="http://www.the-independent-friend.de/files/2013-03-16-aufgeschlagen.jpg"  width="60%" height="auto"  align="right"  vspace="10" hspace="20" /></p> Nein es handelt sich hier nicht um die <a href="http://de.wikipedia.org/wiki/Bibel_in_gerechter_Sprache"><i>"Bibel in gerechter Sprache"</i></a>! Bei der <i>"Die GerechtigkeitsBibel"</i> handelt es sich um eine besondere Ausgabe der <a href="http://de.wikipedia.org/wiki/Hoffnung_f%C3%BCr_alle"><i>"Hoffnung für alle"</i></a>-Übersetzung deren Stellen, die sich mit dem Thema Armut und Gerechtigkeit beschäftigen farblich herausgehoben sind. Und das sind wirklich eine Menge stellen! Da mich das Thema Gerechtigkeit im Kontext der Bibel schon immer gefesselt hat, habe ich nur kurz gezögert und die Ausgabe bestellt.</p>
+<p>
+
+![2013-03-16-aufgeschlagen.jpg](2013-03-16-aufgeschlagen.jpg)
+
+<a href="http://www.the-independent-friend.de/files/2013-03-16-aufgeschlagen.jpg"  >
+<img src="http://www.the-independent-friend.de/files/2013-03-16-aufgeschlagen.jpg"  width="60%" height="auto"  align="right"  vspace="10" hspace="20" />
+
+</p> Nein es handelt sich hier nicht um die <a href="http://de.wikipedia.org/wiki/Bibel_in_gerechter_Sprache"><i>"Bibel in gerechter Sprache"</i></a>! Bei der <i>"Die GerechtigkeitsBibel"</i> handelt es sich um eine besondere Ausgabe der <a href="http://de.wikipedia.org/wiki/Hoffnung_f%C3%BCr_alle"><i>"Hoffnung für alle"</i></a>-Übersetzung deren Stellen, die sich mit dem Thema Armut und Gerechtigkeit beschäftigen farblich herausgehoben sind. Und das sind wirklich eine Menge stellen! Da mich das Thema Gerechtigkeit im Kontext der Bibel schon immer gefesselt hat, habe ich nur kurz gezögert und die Ausgabe bestellt.</p>
 <!--break-->
 <p>In einschlägigen Kreisen hat die Ausgabe natürlich sofort reflexartig Widerspruch ausgelöst. im konservative-evangelikale Lager sieht man traditionell die Mission in Zentrum der Bemühungen. Der Glaube an Gott und das Bekenntnis zu Jesus Christus, scheint "das allein selig machende" zu sein. Als Quäker sehe ich das natürlich anders. Ich sage: Wenn ich kein gerechten Lebenswandel führe - oder mich zu mindestens darum bemühe - sollte ich mich besser nicht in den Glauben wähnen vor Gott gerechtfertigt zu sein. Die Entgegnung von konservative-evangelikale Christen darauf ist dann meist, das ein glaubender und bekennender Christ sekundär ein gerechten Lebenswandel führt. Quasi als <i>Abfallprodukt</i>. </p>
 

@@ -10,11 +10,12 @@ sectionPagesMenu = "main"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 24 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [sitemap]
+  #changefreq = "yearly"
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
@@ -26,4 +27,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
 #  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   featured_image = "/images/page-pic.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 12

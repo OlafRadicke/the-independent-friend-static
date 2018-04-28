@@ -4,6 +4,12 @@
     - name: "ping"
       ping:
 
+    - name: "Clean cach"
+      file:
+        state: absent
+        path: "../public/"
+      delegate_to: localhost
+
     - name: "run hugo"
       shell: "hugo"
       args:
@@ -14,7 +20,7 @@
       synchronize:
         src: ../public/
         dest: /var/www/tif-static/
-        #delete: "yes"
+        delete: "yes"
 
     - name: "sync nginx config"
       synchronize:
