@@ -4,7 +4,7 @@ date: 2013-03-16
 log: ""
 tags: [archiv,bücher,bibel]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatirung kann beschädigt sein.<hr>
+<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
 <p>
 
 ![2013-03-16-aufgeschlagen.jpg](2013-03-16-aufgeschlagen.jpg)

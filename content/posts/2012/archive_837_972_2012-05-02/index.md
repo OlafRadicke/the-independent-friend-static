@@ -1,11 +1,12 @@
 ---
 title: "Vorteile einer Onlineausgabe des \"Quäker\" [update 18.4.2012]"
 date: 2012-05-02
-log: ""
 tags: [archiv,GYM]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatirung kann beschädigt sein.<hr>
+<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+
 <b>Erstveröffentlichung: 15.04.2012</b>
+
 <p>Claus Bernet plädiert in seinem Blog-Artikel <i><a href="http://quaekernachrichten.blogspot.de/2012/04/zeitschrift-quaker-vorteile-einer.html#more">"Zeitschrift 'Quäker': Vorteile einer Onlineausgabe"</a></i> vom 14.4.2012 dafür die Gemeinde-Zeitung als Online-Publikation weiter zu führen. Im Grunde gebe ich ihm Recht. Die Pro-Argumente die er auflistet sind aber zum Teil undifferenziert oder auch etwas unfair. Im einzelnen:</p>
 <!--break-->
 <ul>

@@ -2,9 +2,16 @@
 title: "Sprechen in und zur (Quäker-)Versammlung [update 20.1.2013]"
 date: 2013-01-20
 log: ""
-tags: [archiv,meeting,sprechen,predigen,GYM,maurice-de-coulon,ben-pink-dandelion,]
+tags: 
+    - archiv
+    - meeting
+    - sprechen
+    - predigen
+    - GYM
+    - maurice-de-coulon
+    - ben-pink-dandelion
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatirung kann beschädigt sein.<hr>
+<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
 <b>Erstveröffentlichung: 18-01-2013</b>
 
 <p>Irgendwie scheint das Thema gerade in der Luft zu liegen. Vor gut zwei Wochen sprach mich jemand in der Quäkerandacht an, ob ich nicht mal erklären könnte, wie das mit dem Sprechen in der Andacht so funktioniert. Gerade auch weil es bisher gar keine Redebeiträge  gegeben hat.</p>

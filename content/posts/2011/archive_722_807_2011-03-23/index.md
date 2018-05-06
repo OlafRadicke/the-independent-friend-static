@@ -2,7 +2,7 @@
 title: "Die Auswanderung der Mennoniten und Quaker aus Krefeld soll nachgestellt werden."
 date: 2011-03-23
 log: ""
-tags: [archiv,presse,geschickte,krefelder]
+tags: [archiv,presse,geschichte,krefelder]
 ---
 <hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
 

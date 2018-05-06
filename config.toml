@@ -1,4 +1,4 @@
-baseURL = "https://rpm.the-independent-friend.de/"
+baseURL = "https://the-independent-friend.de/"
 languageCode = "de-DE"
 title = "the independent friend"
 theme = "ananke"

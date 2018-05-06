@@ -4,7 +4,7 @@ date: 2012-09-24
 log: ""
 tags: [archiv,bücher]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatirung kann beschädigt sein.<hr>
+<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
 
 ![kindle_2012-09-23_1_kl.jpg](kindle_2012-09-23_1_kl.jpg)
 

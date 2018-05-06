@@ -2,9 +2,10 @@
 title: "Das Paradies für sich alleine pachten"
 date: 2013-05-01
 log: ""
-tags: [archiv]
+tags: [archiv,thologie,tolleranz,islam]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatirung kann beschädigt sein.<hr>
+<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+
 <p>Heute auf dem Rückweg von der Mai-Kundgebung kam ich an der Kath. <a href="http://de.wikipedia.org/wiki/Herzogspitalkirche_%28M%C3%BCnchen%29">Herzogspitalkirche</a> vorbei, und da fiel mir ein Spruch ins Auge, der an Fassade gesprüht war....</p>
 
 ![2013-05-01 13.10.28.jpg](2013-05-01 13.10.28.jpg)

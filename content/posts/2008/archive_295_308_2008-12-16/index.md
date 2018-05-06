@@ -3,7 +3,7 @@ title: "Widerrede betreffend eines Artikels über die Mitgliedschaft"
 date: 2008-12-16
 tags: [archiv,GYM]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatirung kann beschädigt sein.<hr>
+<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
 
 
 Im "Quäker" 4/2008 auf Seite 222 [7] ist der Artikel "Quäker-Mitglied werden" von Martin Januschek zu finden. Mein erster Eindruck: Wirr. absolut wirr. Nicht wirklich klar. Der Artikel setzt an mit dem Satz:

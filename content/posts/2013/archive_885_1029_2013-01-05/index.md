@@ -4,7 +4,8 @@ date: 2013-01-05
 log: "Rechtschreibkorrektur"
 tags: [archiv,GYM,rückblick,mennoniten,technik,statistik]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatirung kann beschädigt sein.<hr>
+<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+
 <p>Für mich ist mit 2012 ein überaus ereignisreiches Jahr zu Ende gegangen. Herausragendstes Ereignis war ohne Zweifel die Abschlussprüfung bei der IHK. Da habe ich eine von fünf Prüfungen vermasselt und musste sie im Winter wiederholen. Somit habe ich jetzt den dritten Beruf in meinem Leben gelernt und kann mich jetzt "Fachinformatiker für Anwendungsentwicklung" nennen.</p>
 
 <p>Aufgrund der intensiven Vorbereitungen auf die IHK-Prüfung sind einige Sachen liegen geblieben. So hat mein Weblog zum Beispiel darunter gelitten. Das sah man auch zwischenzeitlich an den Besucherzahlen. Die hatten im Sommer ein Tiefstand. Die hohen Besucherzahlen waren natürlich auch ein stückweit den Kontroversen mit dem GYM geschuldet.</p>
