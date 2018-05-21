@@ -10,7 +10,7 @@
         chdir: "/opt/"
 
     - name: "run certbot-auto"
-      shell: "./certbot-auto renew"
+      shell: "./certbot-auto certonly --nginx --email briefkasten@olaf-radicke.de --agree-tos -d the-independent-friend.de,olaf-radicke.de"
       args:
         chdir: "/opt/"
 
