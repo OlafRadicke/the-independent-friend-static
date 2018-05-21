@@ -51,11 +51,12 @@
 # ./certbot-auto certonly -a webroot --webroot-path=/srv/nginx/ -d the-independent-friend.de --debug-challenges -v
 # ./certbot-auto  --nginx --webroot-path=/srv/nginx/ -d the-independent-friend.de --debug-challenges -v
 # ./certbot-auto  --nginx -d the-independent-friend.de --debug-challenges -v
-    - name: "sync letsencrypt config"
-      copy:
-        src: ./files/renewal/the-independent-friend.de.conf
-        dest: /etc/letsencrypt/renewal/the-independent-friend.de.conf
-        owner: root
-        group: root
-        mode: 0644
+
+    # - name: "sync letsencrypt config"
+    #   copy:
+    #     src: ./files/renewal/the-independent-friend.de.conf
+    #     dest: /etc/letsencrypt/renewal/the-independent-friend.de.conf
+    #     owner: root
+    #     group: root
+    #     mode: 0644
         #delete: "yes"
