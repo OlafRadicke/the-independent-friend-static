@@ -42,3 +42,17 @@ https://www.dotnetperls.com/csv-go
 ```bash
 ansible-playbook -i ./ansible/hosts ./ansible/setup.yml
 ```
+
+# Renewl ssl cert #
+
+```bash
+cd /opt/
+./certbot-auto renew --dry-run
+./certbot-auto renew
+nginx -t
+systemctl reload nginx 
+systemctl status nginx
+curl -vvI https://the-independent-friend.de
+curl -vvI https://olaf-radicke.de/
+```
+
