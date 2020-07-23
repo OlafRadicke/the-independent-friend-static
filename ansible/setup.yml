@@ -11,10 +11,14 @@
       delegate_to: localhost
 
     - name: "run hugo"
-      shell: "hugo"
+      shell: "export HUGO_ENV=production && hugo --environment production"
       args:
         chdir: ../
       delegate_to: localhost
+      register: hugo_result
+
+    - debug:
+        msg: "{{ hugo_result.stdout.split('\n')[:-1] }}"
 
     - name: "sync html code"
       synchronize:

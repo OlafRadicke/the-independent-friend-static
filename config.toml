@@ -12,7 +12,7 @@ DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
 Paginate = 24 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 [sitemap]
   #changefreq = "yearly"
