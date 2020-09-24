@@ -20,5 +20,5 @@ Im dem Text werden aber in erster Linie, die beiden - jeweiligen - Gr&uuml;nder 
 
 
 <hr />
-<p><a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license"><img src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" style="border-width: 0pt;" alt="Creative Commons License" /></a><br />
-Dieser <span rel="dc:type" href="http://purl.org/dc/dcmitype/Text" xmlns:dc="http://purl.org/dc/elements/1.1/">Text</span> ist unter einer <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.</p>
+<a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license"><img src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" style="border-width: 0pt;" alt="Creative Commons License" /></a><br />
+Dieser <span rel="dc:type" href="http://purl.org/dc/dcmitype/Text" xmlns:dc="http://purl.org/dc/elements/1.1/">Text</span> ist unter einer <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

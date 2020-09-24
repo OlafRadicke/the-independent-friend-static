@@ -25,13 +25,13 @@ Gut es gibt auch Nachteile In München. Die will ich nicht verschweigen. Zum ein
 
 Die Bilder in diesem Artikel sind Eindrücke vom Münchner Waldfriedhof, den ich sehr schön und interessant finde. Aber es gibt hunderte andere wunderschöne Plätze in München. Und Hunderte Dinge die ich noch nicht entdeckt habe. Ach so, und wer glaubt, München sei traditionell konservativ und Monachistisch-Autoritär. Das Stimmt nicht! Es sein nur daran erinnert, das München Rot ist, das es eine <a href="http://de.wikipedia.org/wiki/M%C3%BCnchner_R%C3%A4terepublik">Münchner Räterepublik</a> gab, das hier die <a href="http://de.wikipedia.org/wiki/Geschwister_Scholl">Geschwister Scholl</a> wirkten und das hier in München, der "vielversprechenste" Attentatsversuch aus zivilen Kreisen (von <a href="http://de.wikipedia.org/wiki/Georg_Elser#Anschlag">Georg Elser</a> )auf Hitler verübt wurde...
 
-<p>
+
 <hr>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />Dieser Text (und die Bilder) ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz für freie Dokumentation</a> in der <a href="http://www.gnu.org/licenses/fdl-1.3.html">Version 1.3 </a> oder höher (abgekürzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
 <hr>
-</p>
 
-<p>
+
+
 <a href="http://www.the-independent-friend.de/?q=system/files/wadldfriedhof_muenchen_02.jpg">
 <img src="http://www.the-independent-friend.de/?q=system/files/wadldfriedhof_muenchen_02.jpg" alt="Bild vom Waldfriedhof in München." width="270" height="170"  align="left"  vspace="10" hspace="20" /></a>
 
@@ -52,6 +52,6 @@ Die Bilder in diesem Artikel sind Eindrücke vom Münchner Waldfriedhof, den ich
 
 <a href="http://www.the-independent-friend.de/?q=system/files/wadldfriedhof_muenchen_08.jpg">
 <img src="http://www.the-independent-friend.de/?q=system/files/wadldfriedhof_muenchen_08.jpg" alt="Bild vom Waldfriedhof in München." width="270" height="170"  align="left"  vspace="10" hspace="20" /></a>
-</p>
+
 <br>
 </br>

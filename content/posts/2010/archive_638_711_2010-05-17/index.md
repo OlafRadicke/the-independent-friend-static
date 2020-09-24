@@ -8,7 +8,7 @@ tags: [archiv,fun]
 
 ![olaf2010.jpg](olaf2010.jpg)
 
-Kerstin Mangels hat noch Fotos von nach der Andacht auf dem &Ouml;KT 2010 gemacht und mir welche zur freien Verwendung &uuml;berlassen...</p>
+Kerstin Mangels hat noch Fotos von nach der Andacht auf dem &Ouml;KT 2010 gemacht und mir welche zur freien Verwendung &uuml;berlassen...
 
 
 

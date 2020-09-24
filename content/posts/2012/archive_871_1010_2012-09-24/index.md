@@ -8,9 +8,9 @@ tags: [archiv,bücher]
 
 ![kindle_2012-09-23_1_kl.jpg](kindle_2012-09-23_1_kl.jpg)
 
-Seid ein paar Wochen nenne ich nun ein kindle-Reder mein Eigen und ein kleines Android Handy. Die Entscheidung fiel mir nicht leicht. Ich habe mir auch alternative Reader angesehen. Es gibt aber quasi nur proprietäre Lese-Systeme. Die Alternative von der Firma Adobe, ist mindestens genauso geschlossen und gängelt die Kunden nicht weniger. Auch Google hat ein eBook-Reader und ein eBook-Shop. Ebenfalls hoch proprietäre.</p>
+Seid ein paar Wochen nenne ich nun ein kindle-Reder mein Eigen und ein kleines Android Handy. Die Entscheidung fiel mir nicht leicht. Ich habe mir auch alternative Reader angesehen. Es gibt aber quasi nur proprietäre Lese-Systeme. Die Alternative von der Firma Adobe, ist mindestens genauso geschlossen und gängelt die Kunden nicht weniger. Auch Google hat ein eBook-Reader und ein eBook-Shop. Ebenfalls hoch proprietäre.
 <!--break-->
-<p>Was gibt es aktuell an eBooks zum Thema "Quäker"? Zunächst der Blick in zu Amazon: Es gibt leider erschreckend wenig Titel. Einer von Dreien ist von Claus Bernet, den ich schon besprochen habe in dem Artikel <i><a href="http://www.the-independent-friend.de/?q=node/786">"Rezension zu „Deutsche Quäkerbibliographie“"</a></i>. Ich habe nun die Gelegenheit genutzt und die Leseprobe heruntergeladen. Ich muss leider sagen das Buch ist in der technischen Umsetzung eine Katastrophe:
+Was gibt es aktuell an eBooks zum Thema "Quäker"? Zunächst der Blick in zu Amazon: Es gibt leider erschreckend wenig Titel. Einer von Dreien ist von Claus Bernet, den ich schon besprochen habe in dem Artikel <i><a href="http://www.the-independent-friend.de/?q=node/786">"Rezension zu „Deutsche Quäkerbibliographie“"</a></i>. Ich habe nun die Gelegenheit genutzt und die Leseprobe heruntergeladen. Ich muss leider sagen das Buch ist in der technischen Umsetzung eine Katastrophe:
 <ul>
 <li>Es gibt kein Inhaltsverzeichnis was verlinkt ist.</li>
 <li>Das Inhaltsverzeichnis was enthalten ist, hat eine völlig zerschossene Formatierung.</li>
@@ -23,9 +23,9 @@ Seid ein paar Wochen nenne ich nun ein kindle-Reder mein Eigen und ein kleines A
 
 ![kindle_2012-09-23_2_kl.jpg](kindle_2012-09-23_2_kl.jpg)
 
-Die Fußnoten kann man zwar in der eBook-Version von der Größe her lesen (im Gegensatz zu Print-Version, wo einige ältere Leser Probleme auf Grund der Schriftgröße haben werden.), aber das nützt nichts, wenn die Fußnoten in ihrer Funktion nicht zu erkennen sind.</p>
+Die Fußnoten kann man zwar in der eBook-Version von der Größe her lesen (im Gegensatz zu Print-Version, wo einige ältere Leser Probleme auf Grund der Schriftgröße haben werden.), aber das nützt nichts, wenn die Fußnoten in ihrer Funktion nicht zu erkennen sind.
 
-<p>Zurück zu Amazon. Die beiden anderen Titel die zu Verfügung stehen sind:
+Zurück zu Amazon. Die beiden anderen Titel die zu Verfügung stehen sind:
 
 <ul>
 <li> Betrachtung zur Arbeits- und Erziehungsethik der Quäker - Ein erkundendes Quellenstudium von Christiane Zönnchen (Kindle Edition - 9. Januar 2008) - Kindle eBook </li>
@@ -33,20 +33,20 @@ Die Fußnoten kann man zwar in der eBook-Version von der Größe her lesen (im G
 </ul>
 
 Beide Titel sind interessanter weise nicht in Claus Bernets "Deutsche Quäkerbibliographie" gelistet.
-</p>
 
-<p>Jetzt zu Hugendubel: Die bieten als PDF-eBooks 7 Bücher an. Und zwar noch die Titel:
+
+Jetzt zu Hugendubel: Die bieten als PDF-eBooks 7 Bücher an. Und zwar noch die Titel:
 
 <ul>
 <li>Stephan Hagemann, "Die Quäker"</li>
 <li>Claus Bernet, "Quäker aus Politik, Wissenschaft und Kunst"</li>
 </ul>
 
-Wobei Hagemann auch nicht zu finden ist in der "Deutsche Quäkerbibliographie". Es sei noch angemerkt, das PDF ein suboptimal Format für eBook-Reader ist, da man die Schriftgröße und Zeilenlänge nicht dynamisch verändern kann. Ein Blick auf Thalia und http://kultur-kaufhaus.shop-asp.de (dussmann) zeigt das selbe Angebot wie Hugendubel.</p>
+Wobei Hagemann auch nicht zu finden ist in der "Deutsche Quäkerbibliographie". Es sei noch angemerkt, das PDF ein suboptimal Format für eBook-Reader ist, da man die Schriftgröße und Zeilenlänge nicht dynamisch verändern kann. Ein Blick auf Thalia und http://kultur-kaufhaus.shop-asp.de (dussmann) zeigt das selbe Angebot wie Hugendubel.
 
-<p>Spannender wird es bei <a href="http://play.google.com">"Google Play"</a>, das Portal wo Android-Handy-Besitzer Apps und eBooks kaufen können. Hier ist das umfangreichste Angebot zu finden. Sogar kostenlose Titel. Dabei handelt es sich zwar um eingescannte alte Werke - aber immerhin!</p>
+Spannender wird es bei <a href="http://play.google.com">"Google Play"</a>, das Portal wo Android-Handy-Besitzer Apps und eBooks kaufen können. Hier ist das umfangreichste Angebot zu finden. Sogar kostenlose Titel. Dabei handelt es sich zwar um eingescannte alte Werke - aber immerhin!
 
-<p>
+
 Hier sind nun zu finden:
 
 <ul>
@@ -73,7 +73,7 @@ Hier sind nun zu finden:
 </ul>
 
 Ich habe einige Stichproben gemacht, und einige Titel davon nicht in der "Deutsche Quäkerbibliographie" von Claus Bernet gefunden. Vielleicht ergänzt er Sie ja noch. Oder ich habe mich nur verguckt.
-</p>
+
 
 
 

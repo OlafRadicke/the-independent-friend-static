@@ -8,17 +8,17 @@ tags: [archiv,UQM]
 
 ![Flyer_Back_Vorschau_0.jpg](Flyer_Back_Vorschau_0.jpg)
 
-<p>
+
 Die Unabhängige Versammlung in München hat sich eigene Flyer erstellt. Sie können auf der Kampangenseite heruntergeladen werden: http://WasKannstDuSelbstSagen.de/
-</p>
-<p>
+
+
 Bevor ich weiter auf die neuen Flyer eingehe, möchte ich die Flyer des GYM noch mal analysieren. Dann wird auch recht schnell klar warum auch ich das große Bedürfnis hatte, einen völlig neuen Flyer zu gestalten.
-</p>
+
 <!--break-->
-<p> 
+ 
 Also das aller Erste was mir sehr aufstösst, ist das dass GYM immer in dritter Person von sich selbst spricht. In dem Flyer heißt es u.a.:
-</p>
-<p>
+
+
 <ul>
 <li><i>"Im Allgemeinen glauben <b>die</b> Freunde..."</i> </li>
 <li><i>"<b>Die</b> Freunde kommen zusammen..."</i>  </li>
@@ -30,7 +30,7 @@ Also das aller Erste was mir sehr aufstösst, ist das dass GYM immer in dritter 
 <li><i>"Es ist ein lebendiges Zeugnis <b>der</b> Freunde..."</i>  </li>
 <li><i>"Das Fehlen eines verbindlichen Bekenntnisses heißt nicht, dass <b>es</b> Freunden ..."</i>  </li>
 </ul>
-</p>
+
 Das wirkt auf mich völlig albern. Was will man damit zum Ausdruck bringen? Wahrscheinlich, das es eine unumstößliche und unzweifelhafte Tatsachenbehautung einer über alles schwebenden Autoritär wäre. Ich sag euch, wie es auf mich wirkt: Entweder litten die Autoren unter einer Persönlichkeitsspaltung, das sie von sich selbst in dritter Person sprachen, oder die Autoren fühlten sich garnicht als Quäker, so das sie auch nicht in <b><i>WIR</i></b>-Form sprechen konnten. Wenn das GYM vom Quäkertum spricht, als hätte es nichts mit einem selbst zu tun, könnte man auch auf die Idee kommen, das GYM ist keine Glaubensgemeinschaft, sondern ein Verein von Hobby-Historikern mit dem Schwerpunkt Quäkertum. Also er eine Geschichtswerkstatt von Hobby-Historikern. Der Geschichtsverein von Neandertal würde seinen Flyer bestimmt auch so beginnen lassen: <i>"Die Andacht ist Mittelpunkt für das religiöse Leben <b>der</b> Neandertaler Gesellschaft."</i>. Sie würden niemals schreiben: <i>"Die Andacht ist für <b>uns</b> Neandertaler Mittelpunkt <b>unseren</b> religiöse Lebens in <b>unsere</b> Gemeinschaft."</i> Weil sie sind ja keine Neandertaler. Also möchte uns das GYM mitteilen, das sie keine Quaker sind?
 
 Na gut, auch wenn man das als dumme Flause abtut, gibt es noch andere Dinge, die ich für misslungen halte, an dem Flyer des GYM. Bevor ich in die Details gehe, sei noch angemerkt, das dass GYM drei Flyer hat mit den Titeln "Einführung", "Andacht" und "Frieden". In allen drei Flyern steht zu 50% der exakt selbe Text. Im folgenden beziehe ich mich auf den Flyer "Einführung".
