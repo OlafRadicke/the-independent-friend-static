@@ -4,7 +4,7 @@ date: 2010-05-15
 log: ""
 tags: [archiv,fun]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![vorne_kl.JPG](vorne_kl.JPG)
 
@@ -29,4 +29,4 @@ Gegen ende des Meetings h&ouml;rten wir noch - unfreiwillig aber &quot;and&auml;
 Nach der Andacht gab es dann noch &quot;Fotoshooting&quot;, Smalltalk, H&auml;ndesch&uuml;tteln und Rausschmiss, weil die n&auml;chste Gruppe den Raum schon Brauchte.. Ich war w&auml;hrend der Andacht wieder zu Kr&auml;ften gekommen und hatte nur noch einen Gedanken: Raus aus den Klamotten!
 
 <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license"><img src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" style="border-width: 0pt;" alt="Creative Commons License" /></a><br />
-Dieser <span rel="dc:type" href="http://purl.org/dc/dcmitype/Text" xmlns:dc="http://purl.org/dc/elements/1.1/">Text</span> ist unter einer <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
+Dieser <span rel="dc:type" href="http://purl.org/dc/dcmitype/Text" xmlns:dc="http://purl.org/dc/elements/1.1/">Text</span> ist unter einer <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license">Creative Commons-Lizenz</a> lizenziert. **Und** unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

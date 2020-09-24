@@ -4,7 +4,7 @@ date: 2010-05-17
 log: ""
 tags: [archiv,fun]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![olaf2010.jpg](olaf2010.jpg)
 

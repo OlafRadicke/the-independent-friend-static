@@ -4,7 +4,7 @@ date: 2009-06-27
 log: ""
 tags: [archiv,OT,münchen]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![brunneninschrift_in_mueenchen.jpg](brunneninschrift_in_mueenchen.jpg)
 

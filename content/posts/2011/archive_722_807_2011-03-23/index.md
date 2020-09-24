@@ -4,7 +4,7 @@ date: 2011-03-23
 log: ""
 tags: [archiv,presse,geschichte,krefelder]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 rp-online.de berichtet über ein paar Krefelder die die Auswanderung unter der Führung von <a href="http://de.wikipedia.org/wiki/Franz_Daniel_Pastorius">Franz Daniel Pastorius</a> nach stellen wollen. In dem Artikel wird behauptet Pastorius sei Mennonit gewesen. Aber ich glaube da liegt der Autor falsch.  An der Stelle noch mal der Verweis auf einen älteren Artikel wo genau diese Frage erhörtet wurde: <a href="http://www.the-independent-friend.de/?q=node/426">rp-online: "Krefelder Protest gegen Sklaverei" [update:24.6.2009]</a>
 

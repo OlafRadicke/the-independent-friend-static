@@ -4,9 +4,9 @@ date: 2009-07-23
 log: "[update 5.5.2009]"
 tags: [archiv,mennoniten,veranstaltung,münchen]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
-<b>Erstveröffentlichung: 4.5.2009 22:58:34</b>
+**Erstveröffentlichung: 4.5.2009 22:58:34**
 
 ![QuakerMennoGodi_2009_05_03.JPG](QuakerMennoGodi_2009_05_03.JPG)
 
@@ -31,7 +31,7 @@ Die Versammlung wurde dann mit einem gemeinsamen Mittagessen abgeschlossen. Jede
 
 In nachhinein musste ich auch noch an Wolfgang Krauß und seinen Artikel „Wachsen aus den Wurzeln - Unsere Geschichte weiter erzählen“[4] denken. Ich <a href="http://www.the-independent-friend.de/?q=node/271">schrieb darüber schon in einen früheren Artikel</a>[3]. Ich glaube der Gottesdienst hätte im gefallen. 
 
-<b>Hier geht es zur Abstimmung:</b> <a href="http://www.the-independent-friend.de/?q=node/474">"Was ist eure Position zu Mennonitisch-Quäkerischen Kontakten?"</a>
+**Hier geht es zur Abstimmung:** <a href="http://www.the-independent-friend.de/?q=node/474">"Was ist eure Position zu Mennonitisch-Quäkerischen Kontakten?"</a>
 
 ## [update 5.5.2009] ##
 Das Foto stammt von Christoph Schmutz aus der Mennonitengemeinde, der es mir freundlicherweise zur Verfügung stellte. Diese steht unter der gleichen Lizenz wie der Text (http://creativecommons.org/licenses/by-sa/3.0/de/).
@@ -39,14 +39,14 @@ Das Foto stammt von Christoph Schmutz aus der Mennonitengemeinde, der es mir fre
 ## [update 23.7.2009] ##
 Ich wurde darauf hingewiesen, das dieser gemeinsame Gottesdienst, der erste historisch dokumentierte Gottesdiens war, den Mennoniten und Quäker gemeinsam begangen haben, in Deutschland. Wer hätte das gedacht? Schon ungewöhnlich bei der theologischen Nähe.  
 
-<hr>
-<b>Fussnoten</b>
+
+**Fussnoten**
 <ul>
-<li> <b>[1]</b> http://de.wikibooks.org/wiki/Einf%C3%BChrung_in_das_Qu%C3%A4kertum/_Mennonitische_Kontakte </li>  
-<li> <b>[2]</b> http://de.wikibooks.org/wiki/Einf%C3%BChrung_in_das_Qu%C3%A4kertum/_Leiden_und_Erl%C3%B6sung </li>  
-<li> <b>[3]</b> "Wachsen aus den Wurzeln" - Überlegungen bei den Mennoniten [update23.9.08], Olaf Radicke, 15/09/2008, http://www.the-independent-friend.de/?q=node/271 </li>  
-<li> <b>[4]</b> In der Verbandszeitung der Mennoniten 3/2008 (Juli-Oktober) Seiten 1 bis 4,   </li>
+<li> **[1]** http://de.wikibooks.org/wiki/Einf%C3%BChrung_in_das_Qu%C3%A4kertum/_Mennonitische_Kontakte </li>  
+<li> **[2]** http://de.wikibooks.org/wiki/Einf%C3%BChrung_in_das_Qu%C3%A4kertum/_Leiden_und_Erl%C3%B6sung </li>  
+<li> **[3]** "Wachsen aus den Wurzeln" - Überlegungen bei den Mennoniten [update23.9.08], Olaf Radicke, 15/09/2008, http://www.the-independent-friend.de/?q=node/271 </li>  
+<li> **[4]** In der Verbandszeitung der Mennoniten 3/2008 (Juli-Oktober) Seiten 1 bis 4,   </li>
 
-<hr>
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz für freie Dokumentation</a> in der <a href="http://www.gnu.org/licenses/fdl-1.3.html">Version 1.3 </a> oder höher (abgekürzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. **Und** unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz für freie Dokumentation</a> in der <a href="http://www.gnu.org/licenses/fdl-1.3.html">Version 1.3 </a> oder höher (abgekürzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

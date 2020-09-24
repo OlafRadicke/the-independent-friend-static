@@ -4,7 +4,7 @@ date: 2011-08-26
 log: "Nachtrag"
 tags: [archiv,bücher]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 
 ![buchcover_ich_muss_verrueckt_sein_0.jpg](buchcover_ich_muss_verrueckt_sein_0.jpg)
@@ -33,4 +33,4 @@ Nichts gegen Tee trinken und Kekse essen, aber damit darf sich das Gemeindeleben
 
 
 <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license"><img src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" style="border-width: 0pt;" alt="Creative Commons License" /></a><br />
-Dieser <span rel="dc:type" href="http://purl.org/dc/dcmitype/Text" xmlns:dc="http://purl.org/dc/elements/1.1/">Text</span> ist unter einer <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
+Dieser <span rel="dc:type" href="http://purl.org/dc/dcmitype/Text" xmlns:dc="http://purl.org/dc/elements/1.1/">Text</span> ist unter einer <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license">Creative Commons-Lizenz</a> lizenziert. **Und** unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

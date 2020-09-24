@@ -4,9 +4,9 @@ date: 2012-09-08
 log: "Edit Rena"
 tags: [archiv]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
-<b>Letztes Update: 8.9.2012</b>
+**Letztes Update: 8.9.2012**
 <a href="http://de.wikipedia.org/wiki/Datei:Denkmal-auswanderer-krefeld.jpg">
 <img src="http://www.the-independent-friend.de/files/Denkmal-auswanderer-krefeld.jpg"  width="180" height="180"  align="left"  vspace="10" hspace="20" /></a>
 Wieder einmal eher zufällig, habe ich entdeckt, dass es in Krefeld (nahe der Dionysiuskirche) ein Denkmal für die (Quäker-)Auswanderer aus dem 17. Jahrhundert, gibt.

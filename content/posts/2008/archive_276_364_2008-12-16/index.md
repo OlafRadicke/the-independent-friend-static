@@ -4,7 +4,7 @@ date: 2008-12-16
 log: "lizenzwechsel"
 tags: [archiv,theologie,GYM]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 Erstveröffentlichung: Mo, 22/09/2008 - 21:23 — OlafRadicke
 
@@ -18,4 +18,4 @@ Warum eigentlich? Es gab unter den <i>Frühen Freunden</i> jede Menge raue Gesel
 
 Sicher, wer nichts macht, macht auch nichts falsch. Aber definitiv auch nichts richtig! Hat sich eine Versammlung schon mal ernsthaft in den letzten Jahren gefragt, warum es Quäker geben sollte und warum etwas fehlen würde, wenn es sie nicht mehr gäbe? Das ist auch die Frage, die sich der Mennonit Wolfgang Krauß kürzlich in seinem Artikel stellte (ich berichtete: "Wachsen aus den Wurzeln" - Überlegungen bei den Mennoniten <a href="http://www.the-independent-friend.de/?q=node/271">http://www.the-independent-friend.de/?q=node/271</a>). Eine Auseinandersetzung tut bitter Not.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz für freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgekürzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. **Und** unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz für freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgekürzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

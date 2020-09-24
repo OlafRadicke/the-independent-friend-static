@@ -4,7 +4,7 @@ date: 2011-12-21
 log: "P.S. hinzu und zweites Bild."
 tags: [archiv]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 Ich wei&szlig; gar nicht mehr was ich urspr&uuml;nglich gesucht habe. Ich habe es schlicht vergessen, &uuml;ber die &Uuml;berraschung, das Claus Bernet offenbar der erste Quaker-Autor ist, der ein eBook raus bringt. Leider in dem propriet&auml;ren Amazon-Kindle-Format. Aber immerhin! Jetzt kann es eigentlich nur noch Jahre dauern, bis das GYM nachzieht und das geplante <a href="http://www.the-independent-friend.de/?q=node/804">&quot;Unser Buch&quot;</a> als eBook heraus gibt...oder?
 
@@ -21,4 +21,4 @@ P.S.: Mein eigenes Buch w&uuml;rde ich auch als eBook raus bringen, wenn ich das
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />
-Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
+Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. **Und** unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

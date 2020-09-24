@@ -4,7 +4,7 @@ date: 2013-03-16
 log: ""
 tags: [archiv,bücher,bibel]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 
 ![2013-03-16-aufgeschlagen.jpg](2013-03-16-aufgeschlagen.jpg)
@@ -23,5 +23,5 @@ Leider gibt es die Bibel aber nicht als eBook. So liegt jetzt das Buch bei mir i
 Noch ein Wort zur "Hoffnung für alle"-Übersetzung an sich: Die Übersetzung ist sehr beliebt. Vielleicht sogar der Zeit die beliebteste Übersetzung neuerer Zeit. Die Bibel ist in dieser Übersetzung leicht, flüssig und verständlich zu lesen, was den Erfolg ausmachen wird. Kritisiert wird, das die Übersetzung an einigen Stellen zu Frei sei und eine Interpretation des Textes vorweg nimmt. Als "niedrigschwelliges Angebot" und Einstig finde ich die Übersetzung nicht schlecht. Als Konvertit oder Alltagsgestresster mit wenig Zeit, ringt man sowieso nicht mit jedem Wort. Man will das Gosse Ganze erfassen und verstehen und sich nicht eine halbe Stunde an einem einzigen Satz abmühen der kein Sinn ergeben will. Ich habe hier auch noch die <a href="http://de.wikipedia.org/wiki/Elberfelder_Bibel">Elberfelder</a>, in einem robusten Einband. Da kann ich dann auch mal vergleichen. Was bestimmt auch Sinn macht.
 
 
-<hr>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>

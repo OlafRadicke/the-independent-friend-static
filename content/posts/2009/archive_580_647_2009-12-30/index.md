@@ -4,7 +4,7 @@ date: 2009-12-30
 log: ""
 tags: [archiv,wikipedia]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 
 ![wikipedia-diagram.png](wikipedia-diagram.png)
@@ -14,7 +14,7 @@ Ich habe mich mal mit der Statistik von Wikipedia beschäftigt. Genauer: Mit der
 Zunächst wollte ich wissen wie oft nach "Quäkertum" gesucht wurde verglichen mit ähnlichen Artikeln.
 <!--break-->
 <PRE>
-<b>Artikel</b>			<b>Hits p.M. 11/2009</b>
+**Artikel**			**Hits p.M. 11/2009**
 Quäkertum		5.590
 Mennoniten		9.993
 Bahai			14.343
@@ -29,7 +29,7 @@ Wie zusehen ist wird ungefähr doppelt so oft nach Mennoniten und drei mal so of
 Als nächstes wollte ich wissen, wie die Artikel, die sich mit Quakertum beschäftigen, untereinander verglichen verteilt sind:
 
 <PRE>
-<b>Artikel</b>						<b>Hits p.M. 11/2009</b>
+**Artikel**						**Hits p.M. 11/2009**
 Quäkertum					5.590
 Germantown					2.492
 Oxfam						2.290
@@ -64,7 +64,7 @@ Es gibt gerade mal vier Artikel die es in den vierstelligen Bereich schaffen. Ar
 Jetzt zu den Artikeln die sich mit Quakerpersönlichkeiten beschäftigen. Da gibt es mittlerweile doch eine ganze menge, wie man fest stellen kann:
 
 <PRE>
-<b>Artikel</b>				<b>Hits p.M. 11/2009</b>
+**Artikel**				**Hits p.M. 11/2009**
 James Turrell			2.799
 Herbert C. Hoover		2.772
 William Penn			1.457
@@ -112,6 +112,6 @@ Und auch hier wieder die eine oder andere Überraschung für mich. Das z.B. <i>J
 So, genug der Zahlenspiele!
 
 
-<hr>
 
- <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz für freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgekürzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. **Und** unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz für freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgekürzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

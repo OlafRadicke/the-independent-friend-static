@@ -4,7 +4,7 @@ date: 2013-01-05
 log: "Rechtschreibkorrektur"
 tags: [archiv,GYM,rückblick,mennoniten,technik,statistik]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 Für mich ist mit 2012 ein überaus ereignisreiches Jahr zu Ende gegangen. Herausragendstes Ereignis war ohne Zweifel die Abschlussprüfung bei der IHK. Da habe ich eine von fünf Prüfungen vermasselt und musste sie im Winter wiederholen. Somit habe ich jetzt den dritten Beruf in meinem Leben gelernt und kann mich jetzt "Fachinformatiker für Anwendungsentwicklung" nennen.
 
@@ -31,5 +31,5 @@ In Laufe der Letzten Monate hat sich meine Beziehung zur Mennoniten-Gemeinde wei
 
 Was steht an für 2013? Auf alle Fälle will ich mich in das Thema Webprogrammierung einarbeiten. Aber auch angefangene Buch-Projekte möchte ich zu Ende bringen. Spirituell will ich die Quäkerandacht bei den Mennoniten ausbauen und etablieren. Ich hoffe aber auch darüber hinaus mich bei den Mennoniten mehr einbringen zu können. Ich wurde schon gefragt, ob ich den Gottesdienst mal leiten wollte. Das entgegengebrachte Vertrauen ist natürlich sehr schmeichelhaft. Ich weiß nur nicht, wie ich in einem Gottesdienst andere zum Singen auffordern soll, wenn ich selber nicht singe, weil ich das im Gottesdienst für <s>sinnlos</s>nicht heilsrelevant halte.. Aber wer weiß, vielleicht finde ich 2013 noch eine Antwort zu der Frage und dann leite ich auch mal einen Gotti. 
 
-<hr>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>

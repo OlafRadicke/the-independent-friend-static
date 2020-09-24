@@ -11,8 +11,8 @@ tags:
     - maurice-de-coulon
     - ben-pink-dandelion
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
-<b>Erstveröffentlichung: 18-01-2013</b>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
+**Erstveröffentlichung: 18-01-2013**
 
 Irgendwie scheint das Thema gerade in der Luft zu liegen. Vor gut zwei Wochen sprach mich jemand in der Quäkerandacht an, ob ich nicht mal erklären könnte, wie das mit dem Sprechen in der Andacht so funktioniert. Gerade auch weil es bisher gar keine Redebeiträge  gegeben hat.
 
@@ -30,5 +30,5 @@ Wir haben auch ein Diagramm übersetzt, das schematisch den Selbstprüfungsmecha
 ## [update 20.1.2013] ##
 Korrekturen, Glättungen und Satzumstellungen
 
-<hr>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>

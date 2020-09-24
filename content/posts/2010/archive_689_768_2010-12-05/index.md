@@ -4,7 +4,7 @@ date: 2010-12-05
 log: ""
 tags: [archiv]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![Wikileaks_logo.jpg](Wikileaks_logo.jpg)
 

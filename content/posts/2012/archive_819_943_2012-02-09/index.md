@@ -4,7 +4,7 @@ date: 2012-02-09
 log: ""
 tags: [archiv,presse,geschichte]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 
 

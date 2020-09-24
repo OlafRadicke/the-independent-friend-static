@@ -4,7 +4,7 @@ date: 2012-06-24
 log: ""
 tags: [archiv,technik]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 
 
@@ -17,6 +17,6 @@ Ich hab in den letzten Tagen auch versucht zu verschiedenen Konfessionen Kontakt
 
 Alles in Allem bisher eine spannende Arbeit. Es ist echt verblüffend, an was andere so z.T. glauben. Also da habe ich die letzten Tage wieder viel dazugelernt! Und ich werde wohl auch noch in Zukunft viel lernen. Denn  es fehlen noch sehr fiele Konfessionen in dem Test.  
 
-<hr>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
 

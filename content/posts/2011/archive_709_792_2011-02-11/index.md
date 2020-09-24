@@ -4,7 +4,7 @@ date: 2011-02-11
 log: ""
 tags: [archiv,bücher,geschichte]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![okkk.png](okkk.png)
 

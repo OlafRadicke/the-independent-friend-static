@@ -4,7 +4,7 @@ date: 2010-12-23
 log: ""
 tags: [archiv,fun]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![quaker_ev.png](quaker_ev.png)
 

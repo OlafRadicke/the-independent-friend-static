@@ -4,7 +4,7 @@ date: 2010-06-27
 log: ""
 tags: [archivbücher]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 
 ![buchcover_gym_net.JPG](buchcover_gym_net.JPG)
@@ -34,4 +34,4 @@ Das H&auml;ftchen hat noch nicht mal ein Inhaltsverzeichnis, was bei 28 Seiten a
 Durch den Beitrag von Roswitha Jarman habe ich mich noch einiger ma&szlig;en vollst&auml;ndig durch gequ&auml;lt. Unter der &Uuml;berschrift <em>&quot;Die spirituellen Wurzeln der Friedensarbeit&quot;</em> schildert sie im ersten Teil theologische Grundhaltung im zweiten Teil schreibt sie &uuml;ber ihre Projekte. Wer hofft im ersten Teil noch etwas &quot;typisch quakerisches&quot; zu finden, wird entt&auml;uscht werden. Sie beruft sich nicht auf Quakert-Traditionen, -Theologie oder -&Uuml;berzeugungen, sondern zitiert Adam Curle, Meister Eckhart, Bischof Riah Abu El-Assal und Martin Buber. Nicht das ich nicht glauben w&uuml;rde, Menschen mit anderen Konfessionen h&auml;tten uns nicht zu sagen - auf keinen Fall! Aber hat das Quakertum uns und den Anderen Nichts mehr zu sagen? Gibt es nichts mehr woraus ein Quaker bei seinen eigenen Wurzeln sch&ouml;pfen kann? Ja, warum nenne und bin ich dann noch Quaker, frage ich mich da?
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />
-Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
+Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. **Und** unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

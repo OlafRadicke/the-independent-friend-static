@@ -4,9 +4,9 @@ date: 2009-05-16
 log: "[update 16.5.2009]"
 tags: [archiv,OT,homosexualität]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
-<b>Erstveröffentlichung: Mo, 11.05.2009</b>
+**Erstveröffentlichung: Mo, 11.05.2009**
 
 ![pbc_plakat.jpg](pbc_plakat.jpg)
 
@@ -34,7 +34,7 @@ Komisch ist auch die Argumentation aus der Schöpfungsgeschichte Genesis 1:27-28
 
 Also ist Ehe und Kinder kriegen doch nicht das wichtigste? Gerade das Argument der Betonung auf überlebens-/Vermehrungs-Fähigkeit der Menschen im AT erinnert mich an die Evolutions-Theorie. Die selbe Evolotions-Theorie die ja von einigen Christen so engagiert bekämpft wird. 
 
-Also mir ist das alles zu platt und zu undifferenziert. Einerseits sehe ich mich nicht als Sittenhüter, der in anderer Leute Schlafzimmer rum schnüffeln muss. Zum anderen, möchte ich mir kein Urteil darüber erlauben, ob es eine kategorische Unmöglichkeit ist, für ein Homosexuelle Paar Gott für sich in den Mittelpunkt ihres Lebens zu stellen, bevor ich mir nicht ein Bild an einem praktischen Beispiel gemacht habe. Hetrosexualität ist <b>an sich</b> noch kein Garant für gottgefälliges Leben in einer Beziehung, das kann ich auf alle Fälle, mit voller Überzeugung, aus <b>eigener Anschauung</b> sagen.
+Also mir ist das alles zu platt und zu undifferenziert. Einerseits sehe ich mich nicht als Sittenhüter, der in anderer Leute Schlafzimmer rum schnüffeln muss. Zum anderen, möchte ich mir kein Urteil darüber erlauben, ob es eine kategorische Unmöglichkeit ist, für ein Homosexuelle Paar Gott für sich in den Mittelpunkt ihres Lebens zu stellen, bevor ich mir nicht ein Bild an einem praktischen Beispiel gemacht habe. Hetrosexualität ist **an sich** noch kein Garant für gottgefälliges Leben in einer Beziehung, das kann ich auf alle Fälle, mit voller Überzeugung, aus **eigener Anschauung** sagen.
 
 ## [update 16.5.2009] ##
 Ich hab jetzt mal ein Plakat der PBC auf der Straße gesehen (Bild oben). Auf ihrer Internetseite stellen sie klar 
@@ -46,14 +46,14 @@ Naja. Ansonsten sind auf der Website die üblichen wissenschaftlich nicht haltba
 
 Die PBC macht einen als Christ das <i>Fremdschämen</i> wieder mal sehr leicht. Vielen dank auch... 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz für freie Dokumentation</a> in der <a href="http://www.gnu.org/licenses/fdl-1.3.html">Version 1.3 </a> oder höher (abgekürzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. **Und** unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz für freie Dokumentation</a> in der <a href="http://www.gnu.org/licenses/fdl-1.3.html">Version 1.3 </a> oder höher (abgekürzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
 
-<hr>
-<b>Fussnoten:</b>
+
+**Fussnoten:**
 <ul>
-<li> <b>[1]</b> http://www.freewebs.com/jason-online/ </li>
-<li> <b>[2]</b> http://www.freewebs.com/jason-online/wassagtdiebibel.htm </li>
-<li> <b>[3]</b> http://www.pbc.de/ </li>
-<li> <b>[4]</b> http://www.bibel-in-gerechter-sprache.de/ </li>
-<li> <b>[5]</b> http://www.pbc.de/index.php?id=1359 </li>
+<li> **[1]** http://www.freewebs.com/jason-online/ </li>
+<li> **[2]** http://www.freewebs.com/jason-online/wassagtdiebibel.htm </li>
+<li> **[3]** http://www.pbc.de/ </li>
+<li> **[4]** http://www.bibel-in-gerechter-sprache.de/ </li>
+<li> **[5]** http://www.pbc.de/index.php?id=1359 </li>
 </ul>

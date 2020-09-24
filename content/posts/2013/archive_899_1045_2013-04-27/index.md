@@ -4,7 +4,7 @@ date: 2013-04-27
 log: ""
 tags: [archiv,GYM]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![quakerstatistik.png](quakerstatistik.png)
 
@@ -26,5 +26,5 @@ Vielleicht doch noch eine Erläuterung zur Grafik:  Der Unterschied zwischen "Al
   <tr><td>Bekannte bereits veröffentliche Texte</td><td>10</td>
 </table>
 
-<hr>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>

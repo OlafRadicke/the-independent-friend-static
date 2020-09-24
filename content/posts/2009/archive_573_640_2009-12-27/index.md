@@ -4,7 +4,7 @@ date: 2009-12-27
 log: ""
 tags: [archiv,OT]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![ruekblick_kl.JPG](ruekblick_kl.JPG)
 

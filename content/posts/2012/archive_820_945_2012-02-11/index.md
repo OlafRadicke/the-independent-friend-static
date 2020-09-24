@@ -4,7 +4,7 @@ date: 2012-02-11
 log: "mit bild"
 tags: [archiv,fun,claus-bernet]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 
 [![Streep_san_sebastian_2008_2.jpg](Streep_san_sebastian_2008_2.jpg)](http://commons.wikimedia.org/wiki/File:Streep_san_sebastian_2008_2.jpg?uselang=de)

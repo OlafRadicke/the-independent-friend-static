@@ -4,7 +4,7 @@ date: 2012-06-20
 log: ""
 tags: [archiv]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![belief-matching.png](belief-matching.png)
 
@@ -16,6 +16,6 @@ Die Datensätze können nicht direkt über die Website gespeichert werden. Grund
 
 
 
-<hr>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
 

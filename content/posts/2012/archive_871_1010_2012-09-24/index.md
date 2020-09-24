@@ -4,7 +4,7 @@ date: 2012-09-24
 log: ""
 tags: [archiv,bücher]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![kindle_2012-09-23_1_kl.jpg](kindle_2012-09-23_1_kl.jpg)
 
@@ -77,5 +77,5 @@ Ich habe einige Stichproben gemacht, und einige Titel davon nicht in der "Deutsc
 
 
 
-<hr>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>

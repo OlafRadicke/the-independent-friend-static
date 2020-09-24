@@ -4,7 +4,7 @@ date: 2010-11-14
 log: ""
 tags: [archiv,friedenszeugnis,münchen]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![demo_2010_11_13.JPG](demo_2010_11_13.JPG)
 
@@ -18,4 +18,4 @@ Ich fand schade, das ich keine Bekannten unter den Demonstranten gesehen habe wi
 Ach ja, mein eigener Slogan, den ich mir gestern an den Hut geheftet hatte war: &quot;Ungl&uuml;cklich das Land, das Helden n&ouml;tig hat.&quot;.
 
 <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license"><img src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" style="border-width: 0pt;" alt="Creative Commons License" /></a> <br />
-Dieser <span rel="dc:type" href="http://purl.org/dc/dcmitype/Text" xmlns:dc="http://purl.org/dc/elements/1.1/">Text</span> ist unter einer <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.
+Dieser <span rel="dc:type" href="http://purl.org/dc/dcmitype/Text" xmlns:dc="http://purl.org/dc/elements/1.1/">Text</span> ist unter einer <a href="http://creativecommons.org/licenses/by-sa/3.0/de/" rel="license">Creative Commons-Lizenz</a> lizenziert. **Und** unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

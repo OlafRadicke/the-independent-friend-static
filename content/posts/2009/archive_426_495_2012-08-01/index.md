@@ -4,9 +4,9 @@ date: 2012-08-01
 log: "korrektur von C. Bernet"
 tags: [archiv, geschichte,krefeld]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
-<b>Erstveröffentlichung: 2009-01-23 23:28</b>
+**Erstveröffentlichung: 2009-01-23 23:28**
 
 ![titelblatt_franz_daniel_pastorius.jpg](titelblatt_franz_daniel_pastorius.jpg)
 
@@ -19,7 +19,7 @@ Claus Bernet machte mich darauf aufmerksam, das nach heutigem Stand der Kenntnis
 
 Zudem ist mir jetzt eingefallen das Claus Bernet schon ausführlich auf das Thema eingegangen ist in dem Buch "400 Jahre Mennoniten in Krefeld", 2008, ISBN: 9783921881262, dort Seite 50 und 51, im Aufsatz "Quäker und Mennoniten". Ich zitiere in Auszügen:
 
-<i><b>"Über diese Auswanderung entzündete sich eine heftige Diskusion. Es ging dabei um die Frage, welcher Denomination die Auswanderer zuzurechnen seien. Die Diskusion ist wissenschaftshistorisch sowohl für Mennoniten- wie auch für Quäkerforscher von Interesse [...]. Die Diskussion  eröffnete Christian Neff [...] mit dem Aufsatz 'Die Quäker in Kriegsheim bei Worms' (1911) [Dann folgte ein jahrelanger Schlagabtausch an dem sich beteiligen:  W.Hubben mit drei Aufsätzen, (1926, 1928, 1938), W. Hull und S.W. Pennypacker (1927), F. Nieper und D. Cattepoel (1937), W. Fellmann, W.Niepoth (1953) und abschließend Boecken (1982)] Die damalige Auseinandersetzungen haben die wissenschaftlichen Beziehungen beider Kirchen, die in Deutschland nur wenige gegenseitige Kontakte pflegen, leider nachhaltig gestört. Wissenschaftshistorisch ist zu bemerken, daß der Irrtum Hulls nicht zu korrigieren ist, erst jüngst wurden von renumierter Seite die Krefelder Auswanderer irrtümlich wieder als Mennoniten bezeichnet."</b></i>  
+<i>**"Über diese Auswanderung entzündete sich eine heftige Diskusion. Es ging dabei um die Frage, welcher Denomination die Auswanderer zuzurechnen seien. Die Diskusion ist wissenschaftshistorisch sowohl für Mennoniten- wie auch für Quäkerforscher von Interesse [...]. Die Diskussion  eröffnete Christian Neff [...] mit dem Aufsatz 'Die Quäker in Kriegsheim bei Worms' (1911) [Dann folgte ein jahrelanger Schlagabtausch an dem sich beteiligen:  W.Hubben mit drei Aufsätzen, (1926, 1928, 1938), W. Hull und S.W. Pennypacker (1927), F. Nieper und D. Cattepoel (1937), W. Fellmann, W.Niepoth (1953) und abschließend Boecken (1982)] Die damalige Auseinandersetzungen haben die wissenschaftlichen Beziehungen beider Kirchen, die in Deutschland nur wenige gegenseitige Kontakte pflegen, leider nachhaltig gestört. Wissenschaftshistorisch ist zu bemerken, daß der Irrtum Hulls nicht zu korrigieren ist, erst jüngst wurden von renumierter Seite die Krefelder Auswanderer irrtümlich wieder als Mennoniten bezeichnet."**</i>  
 
 Nun ja. Zumindest an dieser Stelle wurde der Irrtum jetzt korrigiert.
 
@@ -37,8 +37,8 @@ Ich habe entdeckt das es den Bericht von Franz Daniel Pastorius über die Koloni
 
 
 
-<hr>
-<b>Fußnoten</b>
+
+**Fußnoten**
 <ul>
-<li> <b>[1]</b> rp-online, "Krefelder Protest gegen Sklaverei", 23.01.2009, http://www.rp-online.de/public/article/krefeld/664357/Krefelder-Protest-gegen-Sklaverei.html </li>
+<li> **[1]** rp-online, "Krefelder Protest gegen Sklaverei", 23.01.2009, http://www.rp-online.de/public/article/krefeld/664357/Krefelder-Protest-gegen-Sklaverei.html </li>
 </ul>

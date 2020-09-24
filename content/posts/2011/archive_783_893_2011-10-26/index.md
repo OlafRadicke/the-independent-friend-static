@@ -4,7 +4,7 @@ date: 2011-10-26
 log: "URL-Alias"
 tags: [archiv]
 ---
-<hr><b>Der Artikel stammt aus dem Archiv!</b> Die Formatierung kann beschädigt sein.<hr>
+**Der Artikel stammt aus dem Archiv!** Die Formatierung kann beschädigt sein.
 
 ![Bild_zum_Buch.JPG](Bild_zum_Buch.JPG)
 
