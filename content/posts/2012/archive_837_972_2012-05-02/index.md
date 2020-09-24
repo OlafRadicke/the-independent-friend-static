@@ -40,7 +40,7 @@ Gerade Punkt (8.) zeigt auf, das es ressourcenschonender wäre die besehenen Web
 
 Hier noch ein interessanter Artikel der mir zu dem Thema recht passend erscheint: <a href="http://www.spiegel.de/netzwelt/web/0,1518,827995,00.html"><i>"Euer Internet ist nur geborgt"</i></a> Eine Kolumne von Sascha Lobo auf spiegel.de
 
-<hr />
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />
 Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

@@ -19,6 +19,6 @@ Zwischen den Zeilen meine ich herauszulesen, dass sie nicht&nbsp; in die Welt de
 Tija, Wie kann man &auml;ltere Menschen einbinden in gesellschaftlich-sozialen Dingen, die das Internet nicht mehr verstehen k&ouml;nnen oder wollen? Gerade bei einer Gemeinschaft wie die Quakern in Deutschland, die keine oder sehr selten, eine lebendige Gemeinde vor Ort haben? Also auch nicht sekund&auml;r &uuml;ber Andere mit Informationen versorgt werden k&ouml;nnen.
 
 
-<hr />
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />
 Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.

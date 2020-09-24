@@ -42,7 +42,7 @@ Also wenn mir die Statistik der Zugriffe auf die Wikipedia-Artikel ansehe....
     <li>http://stats.grok.se/de/201003/Qu%C3%A4kertum
     <ul>
         ...habe ich den Eindruck, es interessiert keine Sau, was die <i>Deutsche Jahresversammlung</i> von Wikipedia h&auml;lt. Weil sonst m&uuml;sste ja ein signifikanter Anstieg der Zugriffe zu beobachten sein nach dem Artikel. Oder die Website der <i>Deutsche Jahresversammlung</i> hat so wenig Leser, das es einfach nicht ins Gewicht f&auml;llt.
-        <hr />
+        
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" /></a><br />
         Dieser <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> ist unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-Lizenz</a> lizenziert. <b>Und</b> unter der <a href="http://de.wikipedia.org/wiki/GFDL">GNU-Lizenz f&uuml;r freie Dokumentation</a> in der Version 1.2 vom November 2002 (abgek&uuml;rzt GNU-FDL oder GFDL). Zitate und verlinkte Texte unterliegen den Urheberrecht der jeweiligen Autoren.</ul>
         </li>
