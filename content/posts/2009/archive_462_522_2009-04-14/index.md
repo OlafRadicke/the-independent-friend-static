@@ -27,7 +27,7 @@ Ich habe es schon einmal im Artikel <a href="http://www.the-independent-friend.d
 
 Ihr macht denselben Fehler wie die Quäker, die ihre Sklaven nicht freilassen wollten. Ihr versklavt zwar keine Menschen, aber ihr versklavt Wissen und Informationen. Kehrt um! Ihr geht einen Irrweg. Jesus hat uns zurecht ermahnt, zu teilen und zu kooperieren.
 
-<h2>[update 14.4.2009 - 23:30 Uhr]</h2>
+## [update 14.4.2009 - 23:30 Uhr] ##
 
 Offenbar haben die GYM-Redakteure ihren Fehler bemerkt und den Text mit der folgenden  Bemerkung  versehen:
 

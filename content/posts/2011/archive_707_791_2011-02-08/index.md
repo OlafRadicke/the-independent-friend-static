@@ -15,7 +15,7 @@ Der Weblog des Friedensausschuss ist tot. Der letzte Eintrag stammt von  juergen
 Selbst ein Datum bekommen die Jungs (und vielleicht auch M&auml;dchen - Weis mans (oder Frau)) von der Redaktion hin! Mensch Leute ist das den wirklich so schwer? Wie lang betreibt ihr jetzt schon euer CMS (Content-Management-System)? Das m&uuml;sst auch schon fast drei Jahre sein! Ein Wunder das euch noch ein fiel <i><b>wann</b></i> ihr den <a href="http://www.rgdf.de//index.php?option=com_content&amp;task=view&amp;id=133&amp;Itemid=1">&quot;Brief an die Bundestagsabgeordneten&quot;</a> besprochen habt, auf den ihr verlinkt. Aber immerhin: ihr verlinkt jetzt wenigstens. War ja auch nicht immer selbstverst&auml;ndlich.
 Seid dem Neustart der Website www.rgdf.de habe ich mich gefragt, wie lange es wohl dauert, bis die Redaktion mal merkt, das in dem CMS die <a href="http://de.wikipedia.org/wiki/RSS">RSS-Feed</a> nicht aktiviert sind. Liebe GYM-Redaktion wenn ihr euren Lesern das Leben erleichtern wollt und ihr regelm&auml;&szlig;ig gelesen werden wollt, dann schaltet endlich euren RSS-Feed ein!
 
-<h2> [update 08.02.2011]</h2>
+##  [update 08.02.2011] ##
 
 Gratulation! www.rgdf.de hat es geschafft RSS-Feed ein zu schalten. So jetzt fehlt noch das Erstellungsdatum und der Autor unter jedem Artikel und dann haben wir den minimal Standard erreicht, den man von einer seriösen Publikation erwarten darf.
 

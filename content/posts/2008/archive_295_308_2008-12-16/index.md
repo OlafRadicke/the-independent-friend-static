@@ -84,7 +84,7 @@ Der äußere Kreis im Diagramm 1, stellt die sichtbare Welt dar. Sie ist vereinf
 
 Früher wurden Mitglieder kompromisslos hinausgeworfen, wenn sie (aus Sicht der Quäker) nicht mehr ein Leben in der Wahrheit und im Licht  führten, das ist in Diagramm 2 vereinfacht dargestellt. Für diese Aufgabe gab es sogar spezielle  Ämter, die das zu überprüfen hatten. Das waren so genannte "Overseers" also: "Aufseher". Das haben einige Jahresversammlungen übrigens immer noch, wenn auch heute mit veränderter Aufgabenstellung. Der einzige Unterschied zwischen Mitgliedern und Nichtmitgliedern ist (aus Sicht der <i>Wahrheit</i>), der, dass sie sich eine bestimmte organisatorische Struktur geben, die aus ihrer Sicht der Welt herrührt. Ob eine solche Gesellschaft das Recht oder die Pflicht hat, seine Mitglieder zu disziplinieren und zu ermahnen, in der Wahrheit und im Licht zu leben, damit muss man sich dann auseinandersetzen. Aber um sich disziplinieren zu lassen, muss man kritikfähig sein. Und an diesen Punkt scheinen mir viele Mitglieder etwas zu dünnhäutig. Ach übrigens im Englischen heißt die "Ordnung des Zusammenlebens": "THE BOOK OF DISCIPLINE"[6].
 
-<h2>Quellen/Links</h2>
+## Quellen/Links ##
 
 <ul>
 <li>[1] "Deutsche Quäkerschriften, Band 2, 18.Jahrhundert", ISBN-13 9783487134086, Seite 33</li>

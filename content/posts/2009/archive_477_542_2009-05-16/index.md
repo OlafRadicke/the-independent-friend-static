@@ -36,7 +36,7 @@ Also ist Ehe und Kinder kriegen doch nicht das wichtigste? Gerade das Argument d
 
 Also mir ist das alles zu platt und zu undifferenziert. Einerseits sehe ich mich nicht als Sittenhüter, der in anderer Leute Schlafzimmer rum schnüffeln muss. Zum anderen, möchte ich mir kein Urteil darüber erlauben, ob es eine kategorische Unmöglichkeit ist, für ein Homosexuelle Paar Gott für sich in den Mittelpunkt ihres Lebens zu stellen, bevor ich mir nicht ein Bild an einem praktischen Beispiel gemacht habe. Hetrosexualität ist <b>an sich</b> noch kein Garant für gottgefälliges Leben in einer Beziehung, das kann ich auf alle Fälle, mit voller Überzeugung, aus <b>eigener Anschauung</b> sagen.
 
-<h2>[update 16.5.2009]</h2>
+## [update 16.5.2009] ##
 Ich hab jetzt mal ein Plakat der PBC auf der Straße gesehen (Bild oben). Auf ihrer Internetseite stellen sie klar 
 <ul>
 <li> <cite>"Gleichzeitig müssen wir jedoch darauf hinweisen, dass das Praktizieren und Propagieren von Homosexualität eine Gefährdung unserer Gesellschaft als ganzes wie auch für unzählige Einzelschicksale darstellt. "</cite> [5]</li>

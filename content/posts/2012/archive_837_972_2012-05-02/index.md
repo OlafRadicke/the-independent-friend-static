@@ -36,7 +36,7 @@ Gerade Punkt (8.) zeigt auf, das es ressourcenschonender wäre die besehenen Web
 <br>
 ![wargame-1942.png](wargame-1942.png)
 <br>
-<h2>[update 18.4.2012]</h2>
+## [update 18.4.2012] ##
 
 Hier noch ein interessanter Artikel der mir zu dem Thema recht passend erscheint: <a href="http://www.spiegel.de/netzwelt/web/0,1518,827995,00.html"><i>"Euer Internet ist nur geborgt"</i></a> Eine Kolumne von Sascha Lobo auf spiegel.de
 

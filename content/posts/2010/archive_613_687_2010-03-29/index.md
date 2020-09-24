@@ -34,7 +34,7 @@ Jetzt zu den Angef&uuml;hrten Links der GYM-Redakteure: Erst mal f&auml;llt auf 
 <b>Link Nr. 8</b>: focus, <a href="http://www.focus.de/digital/internet/internet_aid_115628.html">&quot;Internet: Wikipedia-Gr&uuml;nder plant Konkurrenz&quot;</a>, Torsten Kleinz, 15.09.2006, 16:22. ...Der Artikel ist auch Stein alt.
 &nbsp;
 <b>Link Nr. 9</b>: shortnews, <a href="http://www.shortnews.de/id/584331/Brockhaus-uebt-Kritik-an-Wikipedia-die-freie-Enzyklopaedie-sei-nicht-verlaesslich">&quot;Brockhaus &uuml;bt Kritik an Wikipedia - die freie Enzyklop&auml;die sei nicht verl&auml;sslich&quot;</a>, 05.08.05 15:41 Uhr,  Quelle: <a href="http://www.shortnews.de/goto.cfm?id=584331&amp;link=http%3A%2F%2Fwww%2Eheise%2Ede%2Fnewsticker%2Fmeldung%2F62531">www.heise.de</a> ...Der Artikel ist auch Stein alt. Brockhaus ist unmittelbar Konkurrent. Das die Wikipedia schei&szlig;e finden ist klar. Der Original Artikel auf Heise ist &uuml;brigens ausf&uuml;hrlicher.
-<h2>[update 2010-03-14]</h2>
+## [update 2010-03-14] ##
 Also wenn mir die Statistik der Zugriffe auf die Wikipedia-Artikel ansehe....
 <ul>
     <li>http://stats.grok.se/de/201003/Qu%C3%A4kerb%C3%BCro</li>

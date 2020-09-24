@@ -27,7 +27,7 @@ Ich habe dann auf einen anderen Text von Ben Pink Dandelion zurück gegriffen, u
 
 Wir haben auch ein Diagramm übersetzt, das schematisch den Selbstprüfungsmechanismus darstellt, wenn man überlegt ob man in der Andacht sprechen soll. Zu sehen im Bild oben im Artikel.
 
-<h2>[update 20.1.2013]</h2>
+## [update 20.1.2013] ##
 Korrekturen, Glättungen und Satzumstellungen
 
 <hr>

@@ -62,7 +62,7 @@ Ach übrigens: <i><b>The American Friends Service Committee</b></i>[9] hat seine
 
 ![afsc_kl_0.png](afsc_kl_0.png)
 
-<h2>Links/Quellen</h2>
+## Links/Quellen ##
 <ul>
 <li> [1] Das Impressum der Seite des <i>"Religiösen Gesellschaft der Freunde (Quäker) Deutsche Jahresversannlung e. V."</i> http://www.rgdf.de//index.php?option=com_content&task=view&id=39&Itemid=41 </li>
 <li> [2] Wikipediaartikel zu dem CNS Joomla!: http://de.wikipedia.org/wiki/Joomla! </li>

@@ -22,13 +22,13 @@ Den folgenden Satz kann <b><i>so</i></b> niemand nachvollziehen:
 
 Bei der schreienden Inkompetenz der GYM-Redakteure, könnte ich mir auch gut vorstellen, das daß was sie da gesehenen haben wollen, eine eingeblendete (Banner-)Werbung von dem Bucht von Sünne Juterczenka war, das den Titel "Über Gott und die Welt" trägt. ...Man weiß es nicht! Bei so wenig Informationen, ist das reines Kaffeesatzlesen.
 
-<h2>[update 21.4.2009]</h2>
+## [update 21.4.2009] ##
 
 ![elia_gemeinde_2009_04_21.png](elia_gemeinde_2009_04_21.png)
 
 Ich hab mir noch mal die Mühe gemacht, die Website der ELIA-Gemeinde nach Inhalten ab zu suchen, die mit Quäkertum zu tun haben. Ergebnislos! Siehe Bild links (klicke drauf, zum vergrößern). Aber überprüft es gerne selber noch mal: http://www.elia-erlangen.de/
 
-<h2>[update 6.5.2009]</h2>
+## [update 6.5.2009] ##
 
 ![blog_foto.jpg](blog_foto.jpg)
 

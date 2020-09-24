@@ -15,7 +15,7 @@ In witziger bis zynischer Artikel auf <a href="">Indymedia</a> [1] macht mich au
 Der Title Slogen "Luftwaffe trifft Kirche", stammt nicht von Kritikern, sondern ist von dem Veranstalter! Was (mir) zeigt, wie unreflektiert da mit Militär umgegangen wird. Ich hab mir dazu extra noch mal die Website der <a href="http://www.st-mauritius-berlin.de/index.php?option=com_content&view=article&id=13&Itemid=5">St.-Mauritius-Gemeinde angesehen</a>[2]. Das Interview der <a href="http://www.jungewelt.de/2009/12-01/049.php">"Jungen Welt"</a>[3] konnte ich leider nicht finden.
 
 
-<h2>Fussnoten</h2>
+## Fussnoten ##
 <ul>
 <li><b>[1]</b> indymedia,  "Luftwaffe traf Kirche – Protest in Berlin", Jesus!,   01.12.2009 22:32, http://de.indymedia.org/2009/12/267708.shtml </li>
 <li><b>[2]</b> Veranstaltungshinweis, "01.12.2009 19.00 Uhr Benefizkonzert 'Luftwaffe trifft Kirche' in St. Mauritus", http://www.st-mauritius-berlin.de/index.php?option=com_content&view=article&id=13&Itemid=5 </li>

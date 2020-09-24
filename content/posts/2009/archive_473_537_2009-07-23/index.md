@@ -33,10 +33,10 @@ In nachhinein musste ich auch noch an Wolfgang Krauß und seinen Artikel „Wach
 
 <b>Hier geht es zur Abstimmung:</b> <a href="http://www.the-independent-friend.de/?q=node/474">"Was ist eure Position zu Mennonitisch-Quäkerischen Kontakten?"</a>
 
-<h2>[update 5.5.2009]</h2>
+## [update 5.5.2009] ##
 Das Foto stammt von Christoph Schmutz aus der Mennonitengemeinde, der es mir freundlicherweise zur Verfügung stellte. Diese steht unter der gleichen Lizenz wie der Text (http://creativecommons.org/licenses/by-sa/3.0/de/).
 
-<h2>[update 23.7.2009]</h2>
+## [update 23.7.2009] ##
 Ich wurde darauf hingewiesen, das dieser gemeinsame Gottesdienst, der erste historisch dokumentierte Gottesdiens war, den Mennoniten und Quäker gemeinsam begangen haben, in Deutschland. Wer hätte das gedacht? Schon ungewöhnlich bei der theologischen Nähe.  
 
 <hr>

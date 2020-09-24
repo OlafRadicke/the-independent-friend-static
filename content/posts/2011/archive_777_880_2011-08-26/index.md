@@ -26,7 +26,7 @@ Tod ist bei ihm kein Objekt abstrakter Betrachtungen. Nach dem er die &Auml;ngst
 </ul>
 Und ich neige dazu ihm Recht zu geben! Das behagliche Wohnzimmer-Quakertum bei Tee und Keksen ist gef&auml;hrlicher, als sich bei irgend einem aussichtslosen Projekt zu engagieren und sich dabei zum Hampelmann zu machen, oder gar Gesundheit und Leben zu riskieren.   Eine &quot;Kirche Christi&quot; ist eine Gemeinde nur, wenn sie auf den Ruf Gottes harrt/(er-)wartet und (in-sich) horcht und letztlich auch dem Ruf folgt. Wenn man gemeinsam - als Gemeinde - dem Ruf folgt in dem man gemeinsam an Zielen arbeitet, und die damit verbundenen Konfrontationen und Konflikte (nach Innen und Au&szlig;en) aush&auml;lt, dann wird (davon bin ich &uuml;berzeugt) das Evangelium wieder zur Frohen Botschaft und zu einem Abenteuer. Ebenfalls: nach Innen und nach Au&szlig;en... Zwischen uns und dem Evangelium steht doch im Grunde (&quot;nur&quot;) unsere Kleinm&uuml;tigkeit und Konfliktsch&auml;ue.
 
-<h2>Nachtrag</h2>
+## Nachtrag ##
 
 Nichts gegen Tee trinken und Kekse essen, aber damit darf sich das Gemeindeleben nicht ersch&ouml;pft haben!
 

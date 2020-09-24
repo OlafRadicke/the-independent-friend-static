@@ -69,7 +69,7 @@ bekam ich nie eine Antwort geschweige eine Kürzung meiner Bezüge. Die Behauptu
 
 Ganz wichtig bei Behörden: Nichts dem Zufall überlassen, Alle Belege aufheben, alles Quittieren lassen und nichts ohne Zeugen tun, was ihr sonst nicht nachweisen könntet.
 
-<h2>Links/Quellen</h2>
+## Links/Quellen ##
 <ul>
     <li>[1] Wikipedia zu „Verfolgungsbetreuung“ http://de.wikipedia.org/wiki/Verfolgungsbetreuung</li>
     <li>[2] Wikipedia zu „Moderne Sage" http://de.wikipedia.org/wiki/Moderne_Sage<li>

@@ -14,7 +14,7 @@ Ein hoch interessanten Artikel [1] fand ich jetzt auf rp-online. Der Erste der a
 <!--break-->
 Am 18. April 1688 wurde im Haus des Krefelders Thones Kunders der erste öffentliche Protestbrief gegen die Sklaverei in Amerika verfasst. Die Unterzeichner waren Gerrit Hendricks, Dirck op den Graeff (Krefeld), Franz Daniel Pastorius und Abraham op den Graeff (Krefeld). Durch die theologische nähe und die gemeinsame geographische Herkunft waren die Grenzen zwischen Quäkern und Mennoniten sehr durchlässig (schon zu damaliger Zeit). Gut möglich das Quäker an der Erkältung beteiligt waren, aber das sie als solche nicht wahrgenommen wurden. Mennoniten und Quäker wurden oft von ihrem Umfeld undifferenziert wahrgenommen. Aber klar war auch, das zu dem Zeitpunkt wo die Krefelder in den heutigen US-Bundesstaat Pennsylvania ankamen, Quäker am Sklavenhandel beteiligt waren oder Sklavenbesitzer waren. Ob das auf die Krefelder Quäker ähnlich schockierende Wirkung hatte wie auf die Mennoniten wissen wir leider nicht. Gut möglich, das die Krefelder Quäker in der Zwickmühle wahren, einerseits von den in Pennsylvania etablierten Quäker anerkannt und unterstützt werden zu wollen, und anderseits ihrem Gewissen folgen zu wollen und sich den Protesten der Mennoniten an schließen zu wollen. 
 
-<h2>[update:19.2.2009]</h2>
+## [update:19.2.2009] ##
 Claus Bernet machte mich darauf aufmerksam, das nach heutigem Stand der Kenntnis  Pastorius kein Mennonit sondern ein Quäker war. *Tärääähhh!!*. Er verweist auf <i>"Zeitzeichen". Evangelische Kommentare zu Religion und Gesellschaft, II, 9, 2001, Seite 57-59.</i>. 
 
 Zudem ist mir jetzt eingefallen das Claus Bernet schon ausführlich auf das Thema eingegangen ist in dem Buch "400 Jahre Mennoniten in Krefeld", 2008, ISBN: 9783921881262, dort Seite 50 und 51, im Aufsatz "Quäker und Mennoniten". Ich zitiere in Auszügen:
@@ -23,7 +23,7 @@ Zudem ist mir jetzt eingefallen das Claus Bernet schon ausführlich auf das Them
 
 Nun ja. Zumindest an dieser Stelle wurde der Irrtum jetzt korrigiert.
 
-<h2>[update:24.6.2009]</h2>
+## [update:24.6.2009] ##
 Ich habe entdeckt das es den Bericht von Franz Daniel Pastorius über die Kolonien in Nordamerika jetzt online zu lesen gibt. 
 <ul>
 <li><a href="http://gdz.sub.uni-goettingen.de/ru/dms/load/toc/">"Umständige geographische Beschreibung der zu allerletzt erfundenen Provintz Pensylvaniae, in denen End-gräntzen Americae in der West-Welt gelegen''</a> </li>

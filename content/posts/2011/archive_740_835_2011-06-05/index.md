@@ -15,7 +15,7 @@ Letzten Sonntag (15.5.2011) bei dem Mennoniten-Gottesdienst machte mich J&uuml;r
 <!--break-->
 Da die Quaker und die Mennoniten das Friedenszeugnis theologisch verbindet, und die Quaker erst letztes Jahr mit mehr oder weniger Tam-tam ihr 350-J&auml;hriges gefeiert haben, dachte ich mir, es sei ganz interessant sich auch mal damit zu befassen.   In diesem Artikel hier, werde ich das in zwei Abschnitte tun:  In einem Teil mit allgemeinen &Uuml;berlegungen und einen zweiten Teil, in dem ich inhaltlich auf einzelne Abschnitte eingehe. Mein Artikel soll nicht als N&ouml;rgelei verstanden werden, denn ich finde den Ansatz gut und denke hier h&auml;tten die Quaker noch ein interessantes Bet&auml;tigungsfeld. Mit meinen Anmerkungen m&ouml;chte ich das Projekt der Mennoniten aktiv unterst&uuml;tzen und die Quaker dazu anregen, sich Gedanken dar&uuml;ber zu machen, ob sie nicht auch mal ein Arbeitsbuch f&uuml;r die Gemeindearbeit auf die Beine stellen sollten. Ich meine, wenn das GYM traditionell  schon schwer &quot;belastet ist&quot; mit vielen P&auml;dagogen unter seinen Mitgliedern...
 
-<h2>Allgemeine Bemerkungen</h2>
+## Allgemeine Bemerkungen ##
 
 Fange ich mit den Kleinigkeiten an: Das Lackpapier liegt mir unangenehm in der Hand. Auf das strahlende Wei&szlig; k&ouml;nnte ich gut verzichten. Meine Randbemerkungen mit dem Kugelschreiber sind durchgeschlagen und die Farbe vom Textmaker trocknete nur langsam auf dem Papier.
 
@@ -37,7 +37,7 @@ Hier zu noch eine Anmerkung zur Medialen-Form: In dem Heft werden immer wieder L
 
 Hierzu m&uuml;sste und sollte man noch mal &uuml;berlegen unter welcher Lizenz man das Projekt stellt. Hier zu kann man sich bestimmt auch Anregungen von den Volxbibel-Projekt holen. In dem Heft habe ich gesehen, das schon ein Bild verwendet wurde, was unter der <a href="http://de.creativecommons.org/">Creativ Commons Lizenz</a> steht (Seite 35). Leider wurde - vermutlich aus Unwissenheit - das Bild nicht Lizenz-Komfort verwendet. Es h&auml;tte erw&auml;hnt werden m&uuml;ssen, welche Rechte dem Leser/Benutzer einger&auml;umt werden, und der Lizenztext abgedruckt werden m&uuml;ssen. Oder es h&auml;tte zumindest eine Quelle genannt werden m&uuml;ssen, wo der Lizenz-Text zu finden ist.</a>
 
-<h2>Hinweis</h2>
+## Hinweis ##
 
 Meine bisherigen Kommentare zum Heft sind hier zu finden:
 <ul>
