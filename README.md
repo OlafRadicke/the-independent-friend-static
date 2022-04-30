@@ -56,3 +56,30 @@ curl -vvI https://the-independent-friend.de
 curl -vvI https://olaf-radicke.de/
 ```
 
+# Create container image
+
+Enter
+
+```bash
+podman build -t the-independent-friend-de:latest --no-cache=false .
+```
+
+Test run:
+
+```
+podman run --name the-independent-friend-de -d -p 8080:80 --rm the-independent-friend-de
+```
+
+Top container:
+
+```bash
+podman stop the-independent-friend-de
+```
+
+Push image:
+
+```bash
+podman login docker.io
+podman tag  the-independent-friend-de:latest  olafradicke/the-independent-friend-de:1.0
+podman push olafradicke/the-independent-friend-de:1.0
+```
