@@ -1,4 +1,7 @@
-# Build static page #
+Code of the website the-independent-friend.de
+=============================================
+
+The Website is created with Hugo.
 
 # Run local webserver #
 
@@ -37,24 +40,6 @@ https://www.dotnetperls.com/csv-go
 ![Reignac.jpg](Reignac.jpg)
 ```
 
-# Deploy #
-
-```bash
-ansible-playbook -i ./ansible/hosts ./ansible/setup.yml
-```
-
-# Renewl ssl cert #
-
-```bash
-cd /opt/
-./certbot-auto renew --dry-run
-./certbot-auto renew
-nginx -t
-systemctl reload nginx 
-systemctl status nginx
-curl -vvI https://the-independent-friend.de
-curl -vvI https://olaf-radicke.de/
-```
 
 # Create container image
 
@@ -70,16 +55,22 @@ Test run:
 podman run --name the-independent-friend-de -d -p 8080:80 --rm the-independent-friend-de
 ```
 
-Top container:
 
-```bash
-podman stop the-independent-friend-de
-```
-
-Push image:
+Build and push image (copy&paste)
+---------------------------------
 
 ```bash
 podman login docker.io
-podman tag  the-independent-friend-de:latest  olafradicke/the-independent-friend-de:1.0
-podman push olafradicke/the-independent-friend-de:1.0
+LATES_VERSION=2.1
+hugo -D
+podman build -t the-independent-friend-de:latest --no-cache=true .
+podman tag  the-independent-friend-de:latest  olafradicke/the-independent-friend-de:${LATES_VERSION}
+podman push olafradicke/the-independent-friend-de:${LATES_VERSION}
 ```
+
+Update HUGO theme
+-----------------
+
+```bash
+ git submodule update --remote
+ ```
