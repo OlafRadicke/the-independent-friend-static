@@ -3,3 +3,4 @@ archetypes/
 created
 public/
 layouts/
+.hugo_build.lock

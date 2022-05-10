@@ -2,6 +2,7 @@
 title: Impessum
 slug: "about"
 menu: Impessum
+featured_image: "/images/krefeld-pistorius-denkmal.jpg"
 ---
 
 Olaf Radicke

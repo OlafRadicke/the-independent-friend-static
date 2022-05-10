@@ -13,6 +13,7 @@ SectionPagesMenu = "main"
 Paginate = 24 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+featured_image = "/images/krefeld-pistorius-denkmal.jpg"
 
 [sitemap]
   #changefreq = "yearly"
