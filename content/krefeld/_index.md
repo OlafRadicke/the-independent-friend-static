@@ -2,7 +2,9 @@
 title: Krefeld/Treffen
 featured_image: "/images/krefeld-pistorius-denkmal.jpg"
 weight: 2
+type: post
 ---
+
 
 
 Quäker-Andachts-Gruppe „Concord”

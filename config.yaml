@@ -14,10 +14,10 @@ Paginate: 24
 googleAnalytics: ""
 enableRobotsTXT: true
 featured_image: "/images/krefeld-pistorius-denkmal.jpg"
-menu:
-  - 'Artikel'
-  - 'Krefeld'
-  - 'Impessum'
+# menu:
+#   - 'Artikel'
+#   - 'Krefeld'
+#   - 'Impessum'
 # languages:
 #   de:
 #     # title: test…
@@ -48,13 +48,12 @@ params:
   background_color_class: "bg-black"
   featured_image: "/images/page-pic.jpg"
   recent_posts_number: 12
+  # body_classes: "left"
 
-  body_classes: "avenir bg-near-white"
-
-markup:
-  markup:
-    goldmark:
-      renderer:
-        unsafe: true
+# markup:
+#   markup:
+#     goldmark:
+#       renderer:
+#         unsafe: true
 
 
