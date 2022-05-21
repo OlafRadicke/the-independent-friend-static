@@ -1,0 +1,60 @@
+---
+
+baseURL: "https://the-independent-friend.de/"
+languageCode: "de-DE"
+title: "the independent friend"
+theme: "ananke"
+# theme: "Blogpaper"
+sectionPagesMenu: "main"
+
+MetaDataFormat: "yaml"
+DefaultContentLanguage: "de"
+# SectionPagesMenu: "main"
+Paginate: 24 
+googleAnalytics: ""
+enableRobotsTXT: true
+featured_image: "/images/krefeld-pistorius-denkmal.jpg"
+menu:
+  - 'Artikel'
+  - 'Krefeld'
+  - 'Impessum'
+# languages:
+#   de:
+#     # title: test…
+#     languageName: Deutsch
+#     weight: 1
+#     contentDir: content/
+#     menu:
+#       main:
+#         - name: 01_Start
+#           url: /
+#           weight: 2
+#         - name: 02_Krefeld
+#           url: /krefeld
+#           weight: 1
+#         - name: 03_Impessum
+#           url: /about
+#           weight: 0
+
+sitemap:
+  #changefreq: "yearly"
+  changefreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"
+
+params:
+  favicon: ""
+  description: "the independent friend"
+  background_color_class: "bg-black"
+  featured_image: "/images/page-pic.jpg"
+  recent_posts_number: 12
+
+  body_classes: "avenir bg-near-white"
+
+markup:
+  markup:
+    goldmark:
+      renderer:
+        unsafe: true
+
+

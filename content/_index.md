@@ -1,5 +1,4 @@
 ---
-title: "Quakertum in Deutsch und Deutschsprachigen Raum"
-
+title: ""
 featured_image: "/images/krefeld-pistorius-denkmal.jpg"
 ---
