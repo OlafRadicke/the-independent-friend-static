@@ -62,7 +62,7 @@ Build and push image (copy&paste)
 ```bash
 podman login docker.io
 LATES_VERSION=4.2.3
-hugo --gc
+hugo --gc --ignoreCache
 podman build -t the-independent-friend-de:latest --no-cache=true .
 podman tag  the-independent-friend-de:latest  olafradicke/the-independent-friend-de:${LATES_VERSION}
 podman push olafradicke/the-independent-friend-de:${LATES_VERSION}
