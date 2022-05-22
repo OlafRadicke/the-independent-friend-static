@@ -1,9 +1,7 @@
 ---
-title: Impessum
-slug: "about"
-menu: Impessum
+title: Impressum
+menu: Impressum
 featured_image: "/images/krefeld-pistorius-denkmal.jpg"
-weight: 99
 ---
 
 Olaf Radicke
