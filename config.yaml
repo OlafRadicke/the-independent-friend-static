@@ -45,5 +45,9 @@ params:
   recent_posts_number: 12
   # body_classes: "left"
 
-
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      footnote: true
 
