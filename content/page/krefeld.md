@@ -28,7 +28,7 @@ Wer sich dazu berufen fühlt, kann das Wort ergreifen und zu den Versammelten sp
 > Joh 4,21
 
 
-Die Andacht wird vom Versammlungsleiter oder -Leiterin nach ca. 45 Min. beendet. Traditionell, durch das Händereichen zum Sitznachbarn. In pandemisch-epidemischen-Zeiten wird das ersetzt durch eine Berührung mit dem Ellenbogen (und einem freundlichen Lächeln). Im Anschluss gibt es Gelegenheit zum „Gespräch aus der Stille”. Hier können Erfahrungen, Fragen und Gedanken geteilt werden, die während der Stille gesammelt wurden. Dieser Teil hat keine formalen Regeln oder Abläufe.
+Die Andacht wird vom Versammlungsleiter oder -Leiterin nach ca. 60 Min. beendet. Traditionell, durch das Händereichen zum Sitznachbarn. In pandemisch-epidemischen-Zeiten wird das ersetzt durch eine Berührung mit dem Ellenbogen (und einem freundlichen Lächeln). Im Anschluss gibt es Gelegenheit zum „Gespräch aus der Stille”. Hier können Erfahrungen, Fragen und Gedanken geteilt werden, die während der Stille gesammelt wurden. Dieser Teil hat keine formalen Regeln oder Abläufe.
 
 Was sind diese Quäker?
 ----------------------
