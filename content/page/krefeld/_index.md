@@ -15,6 +15,8 @@ Wie läuft die Quäker-Andacht in Krefeld genau ab?
 
 Die Andachten starten Sonntags um 10:30 Uhr, in der [Königstraße 132, in 47798 Krefeld](https://goo.gl/maps/Nyc3iZEUAGLM1JKd7). Das Datum wird über die Website der Krefelder Mennonitengemeinde bekannt gegeben ( [mennoniten-kr.de](https://mennoniten-kr.de/) ). Es wird empfohlen, ein paar Minuten früher zu kommen, um seinen Platz zu suchen und zur Ruhe zu kommen.
 
+![Raum mit leeren Stühlen. Der Boden ist rot und der Raum lichtdurchflutet.](krefeld-meeting-room.jpg)
+
 Nach Begrüßung und einleitenden Worten folgt schon die Sammlung in der Stille. Wer durchs Lesen spiritueller Texte (während der Andacht) Inspiration und Unterstützung sucht, dem ist freigestellt, dies zu tun. Handlungen, die vom Zweck der Andacht – der inneren Sammlung – ablenken, sollten möglichst unterbleiben.
 
 Wer sich dazu berufen fühlt, kann das Wort ergreifen und zu den Versammelten sprechen. Dazu wird traditionell aufgestanden, wenn es möglich ist und angemessen erscheint. Es wird frei und spontan gesprochen und nicht abgelesen. Ein solches Wort soll mit offener wohlwollender Grundeinstellung aufgenommen werden. Widerreden sind möglich. Alle sollten aber darauf achten, in welchem Geist sie sprechen. Es gilt, sich Zeit zu lassen und zu prüfen, bevor man spricht.
@@ -74,8 +76,10 @@ Auch wenn die Mennoniten ca. 100 Jahre älter sind als die Quäker, gibt es eine
 
 Eine der bedeutendsten Kooperationen der beiden Gruppen entstand in Krefeld. Der lutherische Pietist [Franz Daniel Pastorius](https://de.wikipedia.org/wiki/Franz_Daniel_Pastorius) organisierte die Auswanderung von dreizehn Mennoniten- und Quäker-Familien nach Pennsylvania. Das Schiff „Concord”, dass die Gruppe transportierte, wird auch als „deutsche Mayflower“ bezeichnet. Noch im Jahr ihrer Ankunft 1683 wurde die Siedlung Germantown gegründet, die erste deutsche Ansiedlung in Nordamerika. Fünf Jahre nach ihrer Ankunft 1688 initiierten Abraham und Hermann Isacks op den Graeff, Gerrit Henderich und Pastorius den ersten schriftlich überlieferten Protest gegen die Sklaverei in Amerika.
 
+![Strassenschild](strassenschild-2.jpg)
+
 Im Vergleich zur Verbreitung von Quäkern in Nordamerika, Großbritannien und heute vor allem in Afrika, sind die Zahlen im deutschsprachigen Raum immer bescheiden geblieben und dürften kaum über den dreistelligen Bereich hinausgekommen sein. Zweimal ist das Quäker-Leben in Deutschland komplett zum Erliegen gekommen, so dass das heutige Quäkertum keine durchgehende Geschichte hat.
 
 Als Name unseres Andachtksreises wurde ***Concord*** gewählt, um an alte Krefelder Traditionen anzuknüpfen und dazu zu ermuntern, spirituell und geistig mobil zu bleiben. Darüber hinaus soll der Name motivieren, sich gegenseitig zu unterstützen, neue Wege zu beschreiten und sich von Gott leiten zu lassen.
 
-
+![Bodenplatte](bodenplatte.jpg)
