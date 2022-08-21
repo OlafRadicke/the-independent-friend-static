@@ -8,12 +8,12 @@ featured_image: "/images/krefeld-pistorius-denkmal.jpg"
 > *... Denn alles, wonach mein Herz verlangt, ist in dir allein. Schweigen sollen alle Gelehrten, stille sein alle Geschöpfe vor deinem Angesichte: du allein rede zu mir!*
 
 
-Die Aussage stammt von dem Augustiner-Mönch Thomas von Kempen. Sie hätte aber genauso von einem Quäker stammen können. In den „unprogrammierten Andachten” der Quäker wird die Aufmerksamkeit auf Gott und seine unmittelbare Offenbarung gerichtet. Es gibt keinen vorbestimmten Ablauf, mit Gesang, Predigt und liturgischen Handlungen. Stattdessen sammeln sich die Anwesenden in Stille, kommen zur Ruhe und schaffen so Raum für den inneren Dialog mit Gott. Wo sich eine Person vom Geist bewegt fühlt, wird sie entsprechend etwas laut äußern. 
+Die Aussage stammt von dem Augustiner-Mönch Thomas von Kempen. Sie hätte aber genauso von einem Quäker stammen können. In den „unprogrammierten Andachten” der Quäker wird die Aufmerksamkeit auf Gott und seine unmittelbare Offenbarung gerichtet. Es gibt keinen vorbestimmten Ablauf, mit Gesang, Predigt und liturgischen Handlungen. Stattdessen sammeln sich die Anwesenden in Stille, kommen zur Ruhe und schaffen so Raum für den inneren Dialog mit Gott. Wo sich eine Person vom Geist bewegt fühlt, wird sie entsprechend etwas laut äußern.
 
 Wie läuft die Quäker-Andacht in Krefeld genau ab?
 -------------------------------------------------
 
-Die Andachten starten Sonntags um 10:30 Uhr, in der [Königstraße 132, in 47798 Krefeld](https://goo.gl/maps/Nyc3iZEUAGLM1JKd7). Das Datum wird über die Website der Krefelder Mennonitengemeinde bekannt gegeben ( [mennoniten-kr.de](https://mennoniten-kr.de/) ). Es wird empfohlen, ein paar Minuten früher zu kommen, um seinen Platz zu suchen und zur Ruhe zu kommen.
+Die Andachten findet zwei mal im Monat, in der [Königstraße 132, in 47798 Krefeld](https://goo.gl/maps/Nyc3iZEUAGLM1JKd7) Statt. Das konkrete Datum und die Uhrzeit wird über die Website der Krefelder Mennonitengemeinde bekannt gegeben ( [mennoniten-kr.de](https://mennoniten-kr.de/) ). Es wird empfohlen, ein paar Minuten früher zu kommen, um seinen Platz zu suchen und zur Ruhe zu kommen.
 
 ![Raum mit leeren Stühlen. Der Boden ist rot und der Raum lichtdurchflutet.](krefeld-meeting-room.jpg)
 
@@ -22,11 +22,11 @@ Nach Begrüßung und einleitenden Worten folgt schon die Sammlung in der Stille.
 Wer sich dazu berufen fühlt, kann das Wort ergreifen und zu den Versammelten sprechen. Dazu wird traditionell aufgestanden, wenn es möglich ist und angemessen erscheint. Es wird frei und spontan gesprochen und nicht abgelesen. Ein solches Wort soll mit offener wohlwollender Grundeinstellung aufgenommen werden. Widerreden sind möglich. Alle sollten aber darauf achten, in welchem Geist sie sprechen. Es gilt, sich Zeit zu lassen und zu prüfen, bevor man spricht.
 
 > *„Nicht ihr werdet dann reden, sondern der Geist eures Vaters wird durch euch reden.”*
-> 
+>
 > Mt 10,20
-     
+
 > *„Wer aber die Wahrheit Gottes liebt und das tut, was er will, der tritt ins Licht!  Dann zeigt sich: Gott selbst bestimmt das Handeln dieses Menschen.”*
-> 
+>
 > Joh 4,21
 
 
@@ -42,29 +42,29 @@ Die Quäker entstanden während der Wirren des englischen Bürgerkriegs im 16. J
 - ***Testimony of Equality*** (Zeugnis der Gleichheit)
 - ***Testimony of Simplicity*** (Zeugnis der Einfachheit)
 
-Das Friedenszeugnis machte die Quäker zu einer [historischen Friedenskirche](https://de.wikipedia.org/wiki/Friedenskirche_(Konfession)) 
+Das Friedenszeugnis machte die Quäker zu einer [historischen Friedenskirche](https://de.wikipedia.org/wiki/Friedenskirche_(Konfession))
 
 > *"Jesus antwortete: Mein Reich ist nicht von dieser Welt; wenn mein Reich von dieser Welt wäre, so hätten meine Diener gekämpft, damit ich den Juden nicht überliefert würde, jetzt aber ist mein Reich nicht von hier."*
 >
 > Joh 18:36
 
-Das zweite Zeugnis begründet das Verbot von Glücksspiel und die Eidesverweigerung 
+Das zweite Zeugnis begründet das Verbot von Glücksspiel und die Eidesverweigerung
 
 > *"Ich aber sage euch: Schwört überhaupt nicht, [...] Eure Rede sei: Ja ja, nein nein; was darüber hinausgeht, stammt vom Bösen."*
 >
-> Mt 5,34-37 
+> Mt 5,34-37
 
 Aus dem Zeugnis der Gleichheit, leitet sich das allgemeine Priestertum ab, das von Anfang an Frauen mit einschloss.
 
 > *"Und Gott schuf den Menschen als sein Bild, als Bild Gottes schuf er ihn; als Mann und Frau schuf er sie."*
 >
-> 1.Mose 1,27 
+> 1.Mose 1,27
 
-Das Zeugnis der Einfachheit richtet sich gegen Verschwendung und Eitelkeit 
+Das Zeugnis der Einfachheit richtet sich gegen Verschwendung und Eitelkeit
 
 > *"Und warum seid ihr um Kleidung besorgt? Betrachtet die Lilien des Feldes, wie sie wachsen; sie mühen sich nicht, auch spinnen sie nicht. Ich sage euch aber, dass selbst nicht Salomo in all seiner Herrlichkeit bekleidet war wie eine von diesen."*
 >
-> Mt 6,28 
+> Mt 6,28
 
 Die Bibel hat nach wie vor bei vielen Quäker eine zentrale Rolle. Sie ist aber nicht allein Maßstab des Handelns der Einzelnen oder der Gemeinde. Je nach theologischer Ausrichtung der Versammlung (Gemeinde), hat die unmittelbare Offenbarung - Quäker sprechen vom „inneren Licht” - sogar höhere Autorität. Im Quäkertum gibt es weder zentralistische Organisation, noch hat es autoritäre Strukturen. Dies führt zu grossen Unterschieden in den weltweit verbreiteten Gemeinschaften.
 
