@@ -13,7 +13,7 @@ Die Aussage stammt von dem Augustiner-Mönch Thomas von Kempen. Sie hätte aber 
 Wie läuft die Quäker-Andacht in Krefeld genau ab?
 -------------------------------------------------
 
-Die Andachten findet zwei mal im Monat, in der [Königstraße 132, in 47798 Krefeld](https://goo.gl/maps/Nyc3iZEUAGLM1JKd7) Statt. Das konkrete Datum und die Uhrzeit wird über die Website der Krefelder Mennonitengemeinde bekannt gegeben ( [mennoniten-kr.de](https://mennoniten-kr.de/) ). Es wird empfohlen, ein paar Minuten früher zu kommen, um seinen Platz zu suchen und zur Ruhe zu kommen.
+Die Andachten findet in den geraden Kalenderwochen an Samstagen um 17 Uhr, in der [Königstraße 132, in 47798 Krefeld](https://goo.gl/maps/Nyc3iZEUAGLM1JKd7) Statt. Das konkrete Datum wird über die Website der Krefelder Mennonitengemeinde bekannt gegeben ( [mennoniten-kr.de](https://mennoniten-kr.de/) ). Es wird empfohlen, ein paar Minuten früher zu kommen, um seinen Platz zu suchen und zur Ruhe zu kommen.
 
 ![Raum mit leeren Stühlen. Der Boden ist rot und der Raum lichtdurchflutet.](krefeld-meeting-room.jpg)
 
