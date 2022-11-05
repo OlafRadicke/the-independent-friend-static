@@ -1,11 +1,8 @@
 ---
 title: "mennonews: Von Täuferischen Kommunikationsnetzwerken"
 date: 2022-11-05T11:30:38+01:00
-tags:
-  - presse
-  - geschichte
-  - mennoniten
-description: ""Von Täuferischen Kommunikationsnetzwerken""
+tags: [presse, mennoniten, geschichte ]
+description: "Von Täuferischen Kommunikationsnetzwerken"
 ---
 
 Auf [www.mennonews.de](https://www.mennonews.de/archiv/2022/10/24/von-taeuferischen-kommunikationsnetzwerken/)
