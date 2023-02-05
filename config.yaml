@@ -6,9 +6,9 @@ title:                  "the independent friend"
 theme:                  "ananke"
 MetaDataFormat:         "yaml"
 DefaultContentLanguage: "de"
-Paginate:               24 
+Paginate:               24
 googleAnalytics:        ""
-enableRobotsTXT:        true
+enableRobotsTXT:        false
 featured_image:         "/images/krefeld-pistorius-denkmal.jpg"
 
 # sectionPagesMenu: "main"
