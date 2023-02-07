@@ -61,8 +61,9 @@ Build and push image (copy&paste)
 
 ```bash
 podman login docker.io
-LATES_VERSION=4.5.10
-hugo --gc --ignoreCache
+LATES_VERSION=4.5.12
+export HUGO_ENV="production"
+hugo --gc --ignoreCache --environment production
 podman build -t the-independent-friend-de:latest --no-cache=true .
 podman tag  the-independent-friend-de:latest  olafradicke/the-independent-friend-de:${LATES_VERSION}
 podman push olafradicke/the-independent-friend-de:${LATES_VERSION}
