@@ -1,0 +1,38 @@
+name: Build an image with the static HTML
+run-name: ${{ github.actor }} testing build with Hugo.
+on:
+  push:
+    tags:
+      - '*'
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+      - name: Install Hugo
+        run: scripts/install_hugo.sh
+      - run: echo "This job's status is ${{ job.status }}."
+      - run: |
+              ./cache/hugo \
+                --source ./hugo \
+                --baseURL  https://olafradicke.github.io/robert_barclay_apologie_1776 \
+                --destination ../public
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      - name: Login to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+      - name: Build and push
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: olafradicke/the-independent-friend-de:${{  github.ref_name }}
