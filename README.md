@@ -8,6 +8,7 @@ The Website is created with Hugo.
 enter:
 
 ```bash
+cd ./hugo/
 hugo server -D
 ```
 And check
@@ -56,14 +57,24 @@ podman run --name the-independent-friend-de -d -p 8080:80 --rm the-independent-f
 ```
 
 
-Build and push image (copy&paste)
----------------------------------
+BUILD AND PUSH IMAGE
+--------------------
+
+### BY PIPELINE
+
+Commit changes and set a git tag.
+
+### BY HAND
 
 ```bash
 podman login docker.io
-LATES_VERSION=4.5.15
+LATES_VERSION=4.5.16
 export HUGO_ENV="production"
-hugo --gc --ignoreCache --environment production
+hugo 	--gc \
+		--ignoreCache \
+		--environment production \
+		--source ./hugo \
+		--destination ../public
 podman build -t the-independent-friend-de:latest --no-cache=true .
 podman tag  the-independent-friend-de:latest  olafradicke/the-independent-friend-de:${LATES_VERSION}
 podman push olafradicke/the-independent-friend-de:${LATES_VERSION}
