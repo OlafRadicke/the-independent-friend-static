@@ -3,7 +3,7 @@
 baseURL:                  "https://the-independent-friend.de/"
 languageCode:             "de-DE"
 title:                    "the independent friend"
-theme:                    "ananke"
+theme:                    "ananke-local"
 MetaDataFormat:           "yaml"
 DefaultContentLanguage:   "de"
 Paginate:                 24
