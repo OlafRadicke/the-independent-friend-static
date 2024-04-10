@@ -3,7 +3,8 @@
 baseURL:                  "https://the-independent-friend.de/"
 languageCode:             "de-DE"
 title:                    "the independent friend"
-theme:                    "gohugo-theme-ananke-2.9.1"
+theme:
+  -                       "gohugo-theme-ananke-2.9.1"
 MetaDataFormat:           "yaml"
 DefaultContentLanguage:   "de"
 Paginate:                 24
