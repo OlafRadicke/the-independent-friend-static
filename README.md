@@ -1,6 +1,9 @@
 Code of the website the-independent-friend.de
 =============================================
 
+![build_html](https://github.com/quakers-social/crash-and-burn/actions/workflows/build_html.yaml/badge.svg)
+![build_html_test](https://github.com/quakers-social/crash-and-burn/actions/workflows/build_html_test.yaml/badge.svg)
+
 The Website is created with Hugo.
 
 # Run local webserver #
