@@ -2,8 +2,9 @@ name: Build an image with the static HTML
 run-name: ${{ github.actor }} testing build with Hugo.
 on:
   push:
-    tags:
-      - '*'
+    branches:
+      - main
+      - 'feature/**'
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
