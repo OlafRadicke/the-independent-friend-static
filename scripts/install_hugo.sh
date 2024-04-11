@@ -5,7 +5,8 @@ set -e
 set -u
 
 DOWNLOAD_HOST="https://github.com/gohugoio/hugo/releases/download"
-HUGO_VERSION="0.112.7"
+# HUGO_VERSION="0.112.7"
+HUGO_VERSION="0.111.3"
 CACHE_DIR="./cache"
 
 mkdir -p ${CACHE_DIR}
