@@ -14,8 +14,8 @@ jobs:
           fetch-depth: 1
       - name: Install Hugo
         run: scripts/install_hugo.sh
-      - run: echo "This job's status is ${{ job.status }}."
-      - run: |
+      - name: Build HTML
+        run: |
               ./cache/hugo \
                 --panicOnWarning \
                 --source ./hugo \
