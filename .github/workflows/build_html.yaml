@@ -19,7 +19,6 @@ jobs:
               ./cache/hugo \
                 --panicOnWarning \
                 --source ./hugo \
-                --baseURL  https://olafradicke.github.io/robert_barclay_apologie_1776 \
                 --destination ../public
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3

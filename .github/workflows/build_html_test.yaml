@@ -23,6 +23,5 @@ jobs:
               ./cache/hugo \
                 --panicOnWarning \
                 --source ./hugo \
-                --baseURL  https://the-independent-friend.de \
                 --destination ../public
 
