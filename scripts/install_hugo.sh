@@ -11,9 +11,6 @@ CACHE_DIR="./cache"
 
 mkdir -p ${CACHE_DIR}
 
-hugo_extended_0.111.3_Linux-64bit.tar.gz
-
-
 curl -L ${DOWNLOAD_HOST}/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz \
   --output ./${CACHE_DIR}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
 
