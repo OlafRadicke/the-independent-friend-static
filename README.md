@@ -74,6 +74,7 @@ podman login docker.io
 LATES_VERSION=4.5.16
 export HUGO_ENV="production"
 hugo 	--gc \
+        --panicOnWarning \
 		--ignoreCache \
 		--environment production \
 		--source ./hugo \
