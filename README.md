@@ -71,7 +71,7 @@ Commit changes and set a git tag.
 
 ```bash
 podman login docker.io
-LATES_VERSION=4.5.17
+LATES_VERSION=4.8.4
 export HUGO_ENV="production"
 hugo 	--gc \
         --panicOnWarning \
