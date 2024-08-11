@@ -3,7 +3,8 @@
 baseURL:                  "https://the-independent-friend.de/"
 languageCode:             "de-DE"
 title:                    "the independent friend"
-theme:                    "ananke"
+theme:
+  -                       "gohugo-theme-ananke-2.9.1"
 MetaDataFormat:           "yaml"
 DefaultContentLanguage:   "de"
 Paginate:                 24
@@ -22,7 +23,7 @@ menu:
   - identifier:           Krefeld
     name:                 Krefeld
     title:                Krefeld
-    url:                  /page/krefeld/
+    url:                  https://quaker-kr.de/
     weight:               2
   - identifier:           Impressum
     name:                 Impressum

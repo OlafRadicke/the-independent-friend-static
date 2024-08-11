@@ -1,6 +1,9 @@
 Code of the website the-independent-friend.de
 =============================================
 
+![build_html](https://github.com/OlafRadicke/the-independent-friend-static/actions/workflows/build_html.yaml/badge.svg)
+![build_html_test](https://github.com/OlafRadicke/the-independent-friend-static/actions/workflows/build_html_test.yaml/badge.svg)
+
 The Website is created with Hugo.
 
 # Run local webserver #
@@ -68,9 +71,10 @@ Commit changes and set a git tag.
 
 ```bash
 podman login docker.io
-LATES_VERSION=4.5.16
+LATES_VERSION=4.8.4
 export HUGO_ENV="production"
 hugo 	--gc \
+        --panicOnWarning \
 		--ignoreCache \
 		--environment production \
 		--source ./hugo \
