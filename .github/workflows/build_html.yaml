@@ -19,6 +19,8 @@ jobs:
               ./cache/hugo \
                 --panicOnWarning \
                 --source ./hugo \
+                --environment production \
+                --baseURL https://the-independent-friend.de/ \
                 --destination ../public
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
