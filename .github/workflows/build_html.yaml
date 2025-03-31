@@ -12,16 +12,6 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 1
-      - name: Install Hugo
-        run: scripts/install_hugo.sh
-      - name: Build HTML
-        run: |
-              ./cache/hugo \
-                --panicOnWarning \
-                --source ./hugo \
-                --environment production \
-                --baseURL https://the-independent-friend.de/ \
-                --destination ../public
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
       - name: Set up Docker Buildx
