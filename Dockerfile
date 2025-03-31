@@ -6,7 +6,7 @@ ARG DOWNLOAD_HOST="https://github.com/gohugoio/hugo/releases/download"
 ARG HUGO_VERSION="0.112.7"
 ARG LOCAL_BIN_DIR="/local"
 
-COPY .  /tmp/clone
+COPY ./hugo  /tmp/clone
 
 RUN mkdir -p ${LOCAL_BIN_DIR}
 RUN curl -L ${DOWNLOAD_HOST}/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz \
